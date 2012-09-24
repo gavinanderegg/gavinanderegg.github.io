@@ -1,4 +1,6 @@
 auto: true
 markdown: rdiscount
 permalink: /:year/:month/:day/:title
-rdiscount extensions: [smart]
+markdown: rdiscount
+rdiscount:
+  extensions: [smart]
