@@ -1,6 +1,2 @@
+gems: [jekyll-admin]
 permalink: /:year/:month/:day/:title
-markdown: rdiscount
-rdiscount:
-  extensions: [smart]
-sass:
-  style: :compressed
