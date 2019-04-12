@@ -1,2 +1,2 @@
-gems: [jekyll-admin]
+plugins: [jekyll-admin]
 permalink: /:year/:month/:day/:title
