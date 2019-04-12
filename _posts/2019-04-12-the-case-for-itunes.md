@@ -25,4 +25,6 @@ I live inside of the “Songs” view, which looks like a giant spreadsheet. I l
 
 ![iTunes song view](https://s3.amazonaws.com/anderegg/itunes/2019-04-12-songs-view.png)
 
-My biggest worry is that a new “Marzipan” music app won’t have any of these features. At least at first. I just hope that Apple has a place in their hearts for music weirdos like me. iTunes isn’t the best software around, but in terms of music, it does everything I want it to and it does it well. Who knows, maybe the new app will eventually gain a lot more functionality than the current iOS music app. I’m just not holding my breath.
+My biggest worry is that a new “Marzipan” music app won’t have any of these features. At least at first. I just hope that Apple has a place in their hearts for music weirdos like me. They're always talking about how passionate they are about music, so I hope there are some one staff that understand.
+
+iTunes isn’t the best software around, but in terms of music, it does everything I want it to and it does it well. Who knows, maybe the new app will eventually gain a lot more functionality than the current iOS music app. I’m just not holding my breath.
