@@ -4,11 +4,11 @@ title: The Case for iTunes
 
 There’s growing evidence that [iTunes might be split up in macOS 10.15](https://www.macrumors.com/2019/04/10/macos-10-15-music-podcasts-apps/). For movies and TV shows, this makes a lot of sense. When it comes to music, this scares me.
 
-I’m not going to try and convince anyone that present day iTunes is a great app. It’s bloated and confusing. It does too many things, and does many of them poorly. As someone with with movies and TV shows in the current Apple ecosystem, I’d love purpose-built apps with with to view that content. With the upcoming [Apple TV+ service](https://www.apple.com/ca/apple-tv-plus/), there’s even greater need for Apple to get this right.
+I’m not going to try and convince anyone that present day iTunes is a great app. It’s bloated and confusing. It does too many things, and does many of them poorly. As someone with with movies and TV shows in Apple's ecosystem, I’d love purpose-built for viewing that content. With the upcoming [Apple TV+ service](https://www.apple.com/ca/apple-tv-plus/), there’s an even greater need for Apple to get this right.
 
-But music is something different. Apple already has a separate, focused music app on iOS. In my opinion, that app is lacking. Based on what we can see of the current [“marzipan” apps](https://www.imore.com/marzipan), it’s likely that the macOS version of Apple Music won’t be much different from the iOS version.
+But music is something different. Apple already has a separate music app on iOS. In my opinion, that app is lacking. Based on what we can see of the current [“marzipan” apps](https://www.imore.com/marzipan), it’s likely that the macOS version of Apple Music won’t be much different than the iOS version.
 
-You might wonder why I care so much about this. Well, let me give you some background.
+You might wonder why I care so much about this. Let me give you some background.
 
 The first thing I bought through iTunes was 
 [Zero 7’s “Somersault” single](https://itunes.apple.com/ca/album/somersault-single/1326265690) on December 3, 2004. Between then and now, I purchased 2,051 songs, and 27 music videos through the service. In total, my library now contains 11,885 items. This includes 6,340 songs uploaded into [iTunes Match](https://support.apple.com/en-ca/HT204146) and Apple Music over the years.
