@@ -82,10 +82,7 @@ body {
 		max-width: 100%;
 		display: block;
 		margin: auto;
-		border: 2px solid #35333C;
-		-moz-box-shadow: 0 0 4px #000;
-		-webkit-box-shadow: 0 0 4px #000;
-		box-shadow: 0 0 4px #000;
+		margin: 2.4em 0;
 	}
 
 	sub, sup {
@@ -168,5 +165,11 @@ body {
 	#content {
 		font-size: 100%;
 		padding: 24px;
+	}
+
+	#content article > h1 {
+		font-size: 24px;
+		padding-top: 32px;
+		padding-bottom: 4px;
 	}
 }
