@@ -4,7 +4,7 @@ title: The Case for iTunes
 
 There’s growing evidence that [iTunes might be split up in macOS 10.15](https://www.macrumors.com/2019/04/10/macos-10-15-music-podcasts-apps/). For movies and TV shows, this makes a lot of sense. When it comes to music, this scares me.
 
-I’m not going to try and convince anyone that present day iTunes is a great app. It’s bloated and confusing. It does too many things, and does many of them poorly. As someone with with movies and TV shows in Apple's ecosystem, I’d love purpose-built for viewing that content. With the upcoming [Apple TV+ service](https://www.apple.com/ca/apple-tv-plus/), there’s an even greater need for Apple to get this right.
+I’m not going to try and convince anyone that present day iTunes is a great app. It’s bloated and confusing. It does too many things, and does many of them poorly. As someone with with movies and TV shows in Apple's ecosystem, I’d love purpose-built apps for viewing that content. With the upcoming [Apple TV+ service](https://www.apple.com/ca/apple-tv-plus/), there’s an even greater need for Apple to get this right.
 
 But music is something different. Apple already has a separate music app on iOS. In my opinion, that app is lacking. Based on what we can see of the current [“marzipan” apps](https://www.imore.com/marzipan), it’s likely that the macOS version of Apple Music won’t be much different than the iOS version.
 
