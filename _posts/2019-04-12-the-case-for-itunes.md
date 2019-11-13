@@ -10,7 +10,7 @@ But music is something different. Apple already has a separate music app on iOS.
 
 You might wonder why I care so much about this. Let me give you some background.
 
-The first thing I bought through iTunes was 
+The first thing I bought through iTunes was
 [Zero 7’s “Somersault” single](https://itunes.apple.com/ca/album/somersault-single/1326265690) on December 3, 2004. Between then and now, I purchased 2,051 songs, and 27 music videos through the service. In total, my library now contains 11,885 items. This includes 6,340 songs uploaded into [iTunes Match](https://support.apple.com/en-ca/HT204146) and Apple Music over the years.
 
 I say this not to brag about the size of my library, but because it’s large enough that I sometimes have trouble finding things in it.
@@ -23,7 +23,7 @@ I’m a heavy user of smart playlists. You can view these in the iOS Music app, 
 
 I live inside of the “Songs” view, which looks like a giant spreadsheet. I love it, and it’s the only way music makes sense to me. It allows me to sort and find songs using dozens of configurable categories. This sort of sorting and filter is something I do pretty much every day as I waffle between music selections.
 
-![iTunes song view](https:/anderegg.s3.amazonaws.com/itunes/2019-04-12-songs-view.png)
+![iTunes song view](https://anderegg.s3.amazonaws.com/itunes/2019-04-12-songs-view.png)
 
 My biggest worry is that a new “Marzipan” music app won’t have any of these features. At least at first. I just hope that Apple has a place in their hearts for music weirdos like me. They're always talking about how passionate they are about music, so I hope there are some one staff that understand.
 
