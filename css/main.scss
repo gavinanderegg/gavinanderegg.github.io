@@ -97,7 +97,7 @@ body {
 		margin: 18px 0;
 	}
 
-	h1, h2, h3 {
+	h1, h2, h3, h4, h5, h6 {
 		font-family: 'Open Sans', Helvetica, sans-serif;
 		color: #FFF;
 		font-weight: normal;
@@ -105,18 +105,18 @@ body {
 		margin-bottom: 0;
 	}
 
-	h1 {
+	h2 {
 		font-size: 32px;
 	}
 
-	h2 {
+	h3 {
 		font-size: 24px;
 		margin-top: 32px;
 	}
 
-	h2.date {
+	h3.date {
 		font-size: 18px;
-		display: inline;
+		display: inline-block;
 		color: #CCC;
 		margin-top: 0;
 		margin-bottom: 12px;
@@ -124,7 +124,7 @@ body {
 		border-bottom: 1px solid #35333C;
 	}
 
-	h3 {
+	h4 {
 		margin-top: 32px;
 		font-size: 18px;
 	}
@@ -155,7 +155,7 @@ body {
 		border: none;
 		background: #999;
 		height: 1px;
-		margin: 3em 2em;
+		margin: 2.4em 2em;
 	}
 }
 
@@ -168,13 +168,13 @@ body {
 	text-align: right;
 }
 
-@media screen and (max-width: 960px) {
+@media screen and (max-width: 959px) {
 	#content {
 		font-size: 100%;
 		padding: 24px;
 	}
 
-	#content article > h1 {
+	#content article > h2 {
 		font-size: 24px;
 		padding-top: 32px;
 		padding-bottom: 4px;
