@@ -6,8 +6,8 @@ title: anderegg.ca
 <div id="frontPost">
 				{% for post in site.posts limit:1 %}
 					<article>
-						<h2>{{ post.title }}</h1>
-						<h3 class="date">{{ post.date | date: "%B %d, %Y" }}</h2>
+						<h2>{{ post.title }}</h2>
+						<h3 class="date">{{ post.date | date: "%B %d, %Y" }}</h3>
 						{{ post.content }}
 					</article>
 				{% endfor %}
