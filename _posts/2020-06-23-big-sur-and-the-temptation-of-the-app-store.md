@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Big Sur and the Temptation of the App Store
 ---
 
