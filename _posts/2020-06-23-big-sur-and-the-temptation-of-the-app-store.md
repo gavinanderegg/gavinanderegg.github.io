@@ -15,3 +15,7 @@ That Electron piece is interesting. Slack is the poster-child for Electron on de
 The thing about those iOS apps is that they have to come from the App Store, even on the Mac. Of course, developers can always choose to use the iOS version as a starting point and build a custom [SwiftUI](https://swiftwithmajid.com/2019/10/23/reusing-swiftui-views-across-apple-platforms/)/[Mac Catalyst](https://developer.apple.com/mac-catalyst/) version specifically for macOS – but going the easier route will be pretty tempting. Writing something once and publishing for multiple platforms saves on developer time, which is why Slack uses Electron for their desktop apps. It makes sense to put more resources into the version with the bigger audience as well, which probably why I prefer Slack on my iPad.
 
 Before WWDC, I wasn’t worried about the ARM transition meaning the Mac would go App Store only. Sure, Apple would love for more apps to be in the App Store for security (and monetary) reasons, but the platform needs apps that the App Store can’t support. The whole “iOS apps on the Mac” wasn’t something I saw coming, though. Apple won’t enforce this change, but I worry that developing a “good enough” iOS app for the Mac might become the future of the platform.
+
+---
+
+[Discuss on Hacker News](https://news.ycombinator.com/item?id=23622783)
