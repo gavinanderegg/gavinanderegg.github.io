@@ -44,3 +44,4 @@ After finding the list, I fell down a rabbit hole of investigating seldom-used c
 
 I probably shouldn't find this surprising, but [StuffIt](https://en.wikipedia.org/wiki/StuffIt) files (`.sit`, `.sitx`) aren't supported by this utility. StuffIt, though now discontinues, is still a commercial project. But those archives are still so strongly linked with classic Mac OS that it's hard to see `.hqx` in the list without immidiately thinking of `.sit`.
 
+While I'm on the topic, there's a great [list of archive formats](https://en.wikipedia.org/wiki/List_of_archive_formats) on Wikipedia as well. I got immediate waves of nostalgia from seeing `.arj` and `.lha` in that list.
