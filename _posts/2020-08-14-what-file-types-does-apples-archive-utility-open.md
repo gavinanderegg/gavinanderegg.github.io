@@ -41,3 +41,6 @@ You can find this folder here:
 `/System/Library/CoreServices/Applications/Archive\ Utility.app/Contents/Resources`
 
 After finding the list, I fell down a rabbit hole of investigating seldom-used compression formats. I’ve added links above to Wikipedia pages for all the formats I could find. The `.bin` link is a general one, as I’m not sure exactly which format is supported here. The `.aar`, `.as`, and `.uu` formats were unknown to me, but I’m pretty sure the links are correct for these. The one standout was `.yaa`, which I’d also never heard of. It appears to be Mac-specific. There’s a man page for it (`man yaa` in a Terminal window) which provides a bit more detail. [It seems it was added in High Sierra](https://www.mackungfu.org/NewcommandlinetoolsinHighSierra).
+
+I probably shouldn't find this surprising, but [StuffIt](https://en.wikipedia.org/wiki/StuffIt) files (`.sit`, `.sitx`) aren't supported by this utility. StuffIt, though now discontinues, is still a commercial project. But those archives are still so strongly linked with classic Mac OS that it's hard to see `.hqx` in the list without immidiately thinking of `.sit`.
+
