@@ -8,7 +8,7 @@ This morning I was catching up on Twitter when a friend's tweet caught my eye:
 
 Ads on YouTube are just videos, but are usually unlisted. Either way, it can be a real pain to find them. I had previously figured this out by digging into the debugging info (which I've had to use in the past for other reasons), but this isn't straightforward. I figured I should write down the steps.
 
-To find the video link for a YouTube ad: 
+To find the video link for a YouTube ad:
 
 * While the ad is playing, right click on the video and choose **"Copy debug info"** from the context menu.
 Paste the content into a text editor and search for the string `addocid` (Ad Doc ID).
@@ -20,3 +20,7 @@ So the link to the ad based on the above steps would be:
 [`https://www.youtube.com/watch?v=WWsE1gnJWhw`](https://www.youtube.com/watch?v=WWsE1gnJWhw)
 
 I've used this in the past to share ads I thought were funny or interesting. I've also used this to learn more about the organization/entity that paid for the ad. In some cases, I've up/downvoted the ad, which is only sometimes possible when the ad is displayed over another video.
+
+---
+
+[Discuss on Hacker News](https://news.ycombinator.com/item?id=28628932)
