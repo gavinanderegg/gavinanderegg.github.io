@@ -9,7 +9,7 @@
 body {
 	color: #DDD;
 	background-color: #25252C;
-	font-family: 'Lora', serif;
+	font-family: Garamond, Georgia, serif;
 	-webkit-font-smoothing: antialiased;
 
 	a {
@@ -29,13 +29,13 @@ body {
 	background-color: #2D2C35;
 	border-bottom: 1px solid #484852;
 	background-image: url(/img/pixels.png);
-	font-family: 'Open Sans', Helvetica, sans-serif;
+	font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
 	height: 120px;
 
 	h1 a {
 		display: block;
 		position: absolute;
-		bottom: -12px;
+		bottom: -10px;
 		right: 64px;
 		font-weight: normal;
 		font-size: 42px;
@@ -72,7 +72,7 @@ body {
 	max-width: 800px;
 	margin: auto;
 	padding: 68px;
-	font-size: 19px;
+	font-size: 20px;
 	line-height: 156%;
 	text-shadow: 0px 1px 1px #080812;
 	clear: both;
@@ -98,7 +98,7 @@ body {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		font-family: 'Open Sans', Helvetica, sans-serif;
+		font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
 		color: #FFF;
 		font-weight: normal;
 		line-height: 132%;
@@ -170,7 +170,7 @@ body {
 	max-width: 800px;
 	margin: auto;
 	padding: 68px 80px;
-	font-family: 'Open Sans', Helvetica, sans-serif;
+	font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
 	text-align: right;
 }
 
