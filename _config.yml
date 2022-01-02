@@ -1,5 +1,8 @@
-plugins: [jekyll-admin]
+plugins:
+  - jekyll-admin
+  - jekyll-feed
 permalink: /:year/:month/:day/:title
+author: "Gavin Anderegg"
 defaults:
   -
     scope:
