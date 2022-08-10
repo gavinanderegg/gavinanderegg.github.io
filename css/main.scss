@@ -13,7 +13,8 @@ body {
 	-webkit-font-smoothing: antialiased;
 
 	a {
-		color: #F42;
+		// color: #F42; Old colour with accessability issues
+		color: #FF4830;
 		-webkit-transition: color .15s linear;
 		-moz-transition: color .15s linear;
 		transition: color .15s linear;
