@@ -8,7 +8,7 @@ My enjoyment started dropping off around 2015. Slowly at first, but much more ra
 
 All this said, I'm still a news junky. I've been reading a lot more [using RSS](https://reederapp.com) and have signed up for some [fun newsletters](https://www.garbageday.email). One story I just can't quit is everything happening at Twitter the company. Sources like [The Verge](https://www.theverge.com) and [Platformer](https://www.platformer.news) are covering it well, but the shamblefest is non-stop.
 
-That's why I was happy to find *[Twitter is Going Great!](https://twitterisgoinggreat.com)* (a project inspired by [Molly White's](https://www.mollywhite.net) *[Web3 is Going Just Great](https://web3isgoinggreat.com)*). It's not clear how well this service will keep on top of things, but at least a timeline of the ongoing garbage fire will be helpful and likely amusing. Looking at the about page for the project also provided a nice surprise: Molly White published an [open-source timeline generator](https://github.com/molly/static-timeline-generator)! 
+That's why I was happy to find *[Twitter is Going Great!](https://twitterisgoinggreat.com)* (a project inspired by [Molly White's](https://www.mollywhite.net) *[Web3 is Going Just Great](https://web3isgoinggreat.com)*). It's not clear how well this service will keep on top of things, but at least a timeline of the ongoing garbage fire will be helpful and likely amusing. Looking at the about page for the project also provided a nice surprise: Molly White published an [open-source timeline generator](https://github.com/molly/static-timeline-generator), which powers the site. Handy!
 
 
 
