@@ -1,18 +1,26 @@
 url: "https://anderegg.ca"
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
   - jekyll-sitemap
 permalink: /:year/:month/:day/:title
 author: "Gavin Anderegg"
 title: "anderegg.ca"
 description: "Something (slightly) less boring than nothing."
+logo: "/img/logo.png"
 defaults:
+  -
+    scope:
+      path: ""
+    values:
+      image: "/img/logo.png"
   -
     scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
+  -
     scope:
       path: "wc2017/**/*"
     values:
