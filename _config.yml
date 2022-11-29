@@ -1,5 +1,7 @@
+url: "https://anderegg.ca"
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 permalink: /:year/:month/:day/:title
 author: "Gavin Anderegg"
 title: "anderegg.ca"
@@ -11,3 +13,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+    scope:
+      path: "wc2017/**/*"
+    values:
+      sitemap: false
