@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="alternate" type="application/rss+xml" title="anderegg.ca" href="/feed.xml" />
 <script defer data-domain="anderegg.ca" src="https://plausible.io/js/script.js"></script>
-<style type="text/css">{% capture include_to_scssify %}{% include main.scss %}{% endcapture %}{{ include_to_scssify | scssify | strip_newlines }}</style>
+<style>{% capture include_to_scssify %}{% include main.scss %}{% endcapture %}{{ include_to_scssify | scssify | strip_newlines }}</style>
 </head>
 
 <body>
@@ -30,7 +30,7 @@
 	</div>
 
 	<footer id="bottom">
-		<p>Content and design &copy; {{ site.time | date: '%Y' }}, Gavin Anderegg &mdash; powered by <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://pages.github.com/">GitHub Pages</a></a></p>
+		<p>Content and design &copy; {{ site.time | date: '%Y' }}, Gavin Anderegg &mdash; powered by <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://pages.github.com/">GitHub Pages</a></p>
 
 		<p style="margin-top: 1em;"><a href="https://mastodon.social/@gavinanderegg" rel="me">Follow me on Mastodon</a></p>
 	</footer>
