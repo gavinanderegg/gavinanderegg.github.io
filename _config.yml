@@ -8,6 +8,7 @@ author: "Gavin Anderegg"
 title: "anderegg.ca"
 description: "Something (slightly) less boring than nothing."
 logo: "/img/logo.png"
+include: [".well-known"]
 defaults:
   -
     scope:
