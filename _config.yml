@@ -7,6 +7,7 @@ permalink: /:year/:month/:day/:title
 author: "Gavin Anderegg"
 title: "anderegg.ca"
 description: "Something (slightly) less boring than nothing."
+timezone: "America/Halifax"
 logo: "/img/logo.png"
 include: [".well-known"]
 defaults:
