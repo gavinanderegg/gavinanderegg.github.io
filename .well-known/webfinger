@@ -10,7 +10,7 @@
         {
             "rel": "http://webfinger.net/rel/profile-page",
             "type": "text/html",
-            "href": "https://mastodon.social/@gavinanderegg/@shanselman"
+            "href": "https://mastodon.social/@gavinanderegg"
         },
         {
             "rel": "self",
