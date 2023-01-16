@@ -1,0 +1,16 @@
+---
+title: The End for Third-Party Twitter Clients
+date: 2023-01-15 23:15
+---
+
+Late last week, [many third-party Twitter clients stopped working](https://9to5google.com/2023/01/12/twitter-api-appears-to-be-down-breaking-tweetbot-and-third-party-clients/). It didn’t seem to affect all apps — [Spring](https://apps.apple.com/us/app/spring-for-twitter/id1508706541) still works for me as of this writing — but the largest ones could no longer connect. Some speculated that this might be a bug. Twitter has had [issues](https://www.theverge.com/2022/12/28/23530256/twitter-outage-down-connection-loading-error-notifications) and [downtime](https://www.theverge.com/2023/1/4/23538560/twitter-users-in-australia-are-having-a-bad-day) in the last several weeks, so that was plausible. [There was pretty strong evidence that this was intentional, however](https://daringfireball.net/linked/2023/01/14/information-twitter-slack-confirmation).
+
+[Paul Haddad](https://tapbots.social/@paul) is the developer of [Tweetbot](https://tapbots.com/tweetbot/), a prominent Twitter client for Apple platforms. Earlier today he tried to get around the outage by swapping out the app’s API keys. This worked briefly, but massively reduced the utility of the app. [A few hours later and the app was unable to connect again](https://www.theverge.com/2023/1/15/23556359/tweetbot-twitter-online-third-party-apps-outage).
+
+I’ve been on Twitter for more than 15 years, but [stopped wanting to post there a couple of months ago](https://anderegg.ca/2022/11/15/twitter-is-going-great). At the beginning of the new Twitter era, many of the podcasters I follow said that the death of the third-party client would be their line in the sand. Several of them jumped off before then, but I’d bet this will be the final straw for many more.
+
+From Twitter’s perspective, this probably doesn’t matter. Third-party clients never saw Twitter’s ads, as they were never included in the API. Third-party clients also couldn’t take advantage of any Twitter Blue functionality, as the APIs were never updated to expose those features. [Twitter made some noise](https://www.theverge.com/2020/8/12/21364644/twitter-api-v2-new-access-tiers-developer-portal-support-developers) a few years ago about getting serious about the API, but that never really seemed to happen. To top it all off, third-party apps were only used by [a small percentage of people in 2018](https://techcrunch.com/2018/08/17/6-million-users-had-installed-third-party-twitter-clients/).
+
+So from an immediate financial perspective, this move might make sense. What’s maddening is that there’s been no official announcement. Are all third-party clients going to be banned? It seems likely, but who knows. It’s just something that’s *happening*. People are left to guess-and-test.
+
+Whatever’s next, I can’t imagine wanting to trust the Twitter API under the current leadership. Even if this is only targeting third-party clients now, there’s no reason to believe a large API change won’t happen again. A responsible company would give some notice for a change like this. I’d even expect an irresponsible company to announce the change as it was going live. To make this sort of change and not even acknowledge it is insane.
