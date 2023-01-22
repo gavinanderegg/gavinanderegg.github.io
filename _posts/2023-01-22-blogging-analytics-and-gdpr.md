@@ -19,7 +19,7 @@ During this whole period of waffling about stats products, one other point kept 
 
 I went down quite the rabbit-hole with this, but [the biggest takeaway was the Schrems II case](https://www.gdprsummary.com/schrems-ii/). In short: sending personal data about European users to third-parties in the US can get one sued. A [similar court case](https://www.theregister.com/2022/01/31/website_fine_google_fonts_gdpr/) focused on a specific GDPR violation with regards to Google Fonts.[^3]
 
-This seems insane to me, and makes me worry that GDPR (and laws like it) could harm small websites. I don't have a legal team, and in terms of GDPR protection, it's likely safer to post all my content on Facebook or the like. Sending users toward large corporations seems antithetical to at least part of this law.
+This seems insane to me, and makes me worry that GDPR (and laws like it) could harm small websites. I don't have a legal team, and it seems to me like it's safer and easier to post my content on Facebook than to have to worry about this stuff myself. I don't want to collect any personal information if I can help it, but I'd also like to try and host content outside of large social media sites.
 
 So, does Plausible protect me from GDPR? I have no idea. It doesn't set any cookies, so I feel better about not showing an annoying cookie consent dialogue. But I'm still loading content from a third-party, which means people visiting my site are having their IP addresses forwarded somewhere else. [Plausible make a solid case for themselves](https://plausible.io/data-policy), but it's unclear to me how much that matters. As a tiny speck on the internet, I feel that it's probably fine either way. I'd just like to do as close to the correct thing as possible.
 
