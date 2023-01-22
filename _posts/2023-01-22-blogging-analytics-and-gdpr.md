@@ -17,7 +17,7 @@ The minimal amount of tracking that Plausible provided was a plus to me, but the
 
 During this whole period of waffling about stats products, one other point kept bubbling up: [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation).
 
-I went down quite the rabbit-hole with this, but [the biggest takeaway was the Schrems II case](https://www.gdprsummary.com/schrems-ii/). In short: gathering personal data on users and sending that to third-parties can get one sued. In this case the personal data was an IP address and the third-party was Facebook. A [similar court case](https://www.theregister.com/2022/01/31/website_fine_google_fonts_gdpr/) focused on a GDPR violation around Google Fonts.[^3]
+I went down quite the rabbit-hole with this, but [the biggest takeaway was the Schrems II case](https://www.gdprsummary.com/schrems-ii/). In short: sending personal data about European users to third-parties in the US can get one sued. A [similar court case](https://www.theregister.com/2022/01/31/website_fine_google_fonts_gdpr/) focused on a specific GDPR violation with regards to Google Fonts.[^3]
 
 This seems insane to me, and makes me worry that GDPR (and laws like it) could harm small websites. I don't have a legal team, and in terms of GDPR protection, it's likely safer to post all my content on Facebook or the like. Sending users toward large corporations seems antithetical to at least part of this law.
 
