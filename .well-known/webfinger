@@ -1,11 +1,11 @@
 {
-  "subject": "acct:gavinanderegg@mastodon.social",
+  "subject": "acct:gavin@anderegg.ca",
   "aliases": [
     "https://mastodon.social/@gavinanderegg",
     "https://mastodon.social/users/gavinanderegg"
   ],
   "links": [
-     {
+    {
       "rel": "http://webfinger.net/rel/profile-page",
       "type": "text/html",
       "href": "https://mastodon.social/@gavinanderegg"
