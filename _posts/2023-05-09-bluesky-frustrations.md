@@ -47,7 +47,7 @@ I’m writing this mostly to get it off my chest. Mastodon works for me, and I�
 * Some of the Bluesky’s technical approaches are novel, I worry that some people may be blinded by the lack of privacy they provide.
 * It’s also unclear what the monetization strategy is. A bad funding model could make the service less fun in a hurry.
 
-All of these are challenges for the future. I selfishly wish that more people would focus on improving Activity Pub and Mastodon. They’re things that exist today.
+All of these are challenges for the future. I selfishly wish that more people would focus on improving Activity Pub and Mastodon. I also think that Bluesky might be more popular as a small, quirky, centralized platform than it will be once its promises are fulfilled.
 
 
 <hr>
