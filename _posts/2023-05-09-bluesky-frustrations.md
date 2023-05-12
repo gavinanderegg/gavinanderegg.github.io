@@ -17,7 +17,7 @@ I also love that there’s no algorithmically suggested content on Mastodon. Whe
 
 
 #### Technical frustrations
-A lot of people are testing out Bluesky because it’s the new hot thing. Fair enough! If I got an invite, I would likely set up an account just to stake my claim.
+A lot of people are testing out Bluesky because it’s the new hot thing. Fair enough! If I got an invite, I would likely set up an account just to stake my claim.[^3]
 
 Erin mentions that it’s refreshing to see a new take on a distributed social platform. That’s a valid take, and I get it. My more curmudgeonly view is: [the AT Protocol has been in development for more than 2 years](https://github.com/bluesky-social/atproto/commit/b3110f0eb58c05c34ccec29447bb9b8b2f082373), and it’s still extremely unclear how chunks of it will work.
 
@@ -35,7 +35,7 @@ I wonder, though: how much of the fun will be left once it’s decentralized, op
 
 Assuming the future techie stuff isn’t a stumbling point, there are also some real privacy concerns. [Block lists are currently public data](https://twitter.com/MattBinder/status/1652142389165797377), and it’s unclear how this can be avoided. The AT Protocol seems to require all records be “[crawlable](https://atproto.com/guides/overview#achieving-scale)”, so it's not clear how private content could work. [At least right now, you can download everything](https://worthdoingbadly.com/bsky/). [^2] This data will be a boon to academics and hostile state actors alike. Because ActivityPub is a simpler publish/subscribe system, it's much more difficult to get large data sets like this. On Mastodon in particular, it's protected by the federated server structure. This is what makes Mastodon difficult to search, which is an annoyance to some and a privacy/security feature to others.
 
-Speaking of annoyances, I'm curious what Bluesky's monetization strategy will be. Many seem to think Bluesky is VC funded. [Instead, it’s a public benefit corporation](https://blueskyweb.xyz/faq#:~:text=Bluesky%2C%20the%20company%2C%20is%20a%20Public%20Benefit%20LLC.). Still, it needs to pay for server costs and employee salaries somehow. [Mastodon does this almost entirely through Patreon](https://www.theverge.com/23658648/mastodon-ceo-twitter-interview-elon-musk-twitter#:~:text=No%2C%20that%E2%80%99s%20pretty%20much%20it.). Will Bluesky do something similar? I sort of doubt it. My guess is that they’ll want to chase growth somehow, and my worry is that it’ll be with something cryptocurrency-based. Even if that’s not the case, this seems like another way the service could become less fun pretty quickly.
+Speaking of annoyances, I'm curious what Bluesky's monetization strategy will be. [Currently, it’s a Public Benefit LLC](https://blueskyweb.xyz/faq#:~:text=Bluesky%2C%20the%20company%2C%20is%20a%20Public%20Benefit%20LLC.) that has to date received [an investment of $13M USD from Jack Dorsey](https://www.crunchbase.com/organization/bluesky-514d/company_financials).[^4] That runway won't last forever and it will need to pay for server costs and employee salaries somehow. [Mastodon does this almost entirely through Patreon](https://www.theverge.com/23658648/mastodon-ceo-twitter-interview-elon-musk-twitter#:~:text=No%2C%20that%E2%80%99s%20pretty%20much%20it.). Will Bluesky do something similar? I sort of doubt it. My guess is that they’ll want to chase growth, and my worry is that it’ll be with something cryptocurrency-based. Even if that’s not the case, this seems like another way the service could become less fun pretty quickly.
 
 
 #### Who cares?
@@ -52,8 +52,10 @@ All of these are challenges for the future. I selfishly wish that more people wo
 
 <hr>
 
+[^3]: EDIT: I ended up getting invited. I think it was because this article was mentioned one of the devs on Bluesky. I'm now @gavin.anderegg.ca over there. I may write an impressions post in the future.
 
 [^1]: I can’t find this in the documentation anywhere, but it's [mentioned in a Hacker News comment](https://news.ycombinator.com/item?id=35845887). It seems like there will be “deletions” which sound like the content will stick around, and “purges” (like Git rebase) which are likely to be inefficient.
 
 [^2]: This is both hilarious and pretty irritating. You can get every post via the API now, but you can’t link to a post on the web if you’re not logged in? Huh?
 
+[^4]: EDIT: [It was pointed out to me by Timothy Swan](https://mastodon.social/@timswan/110345616237124525) that Public Benefit LLCs can receive VC funding. I dug into this a bit more, and [found an interesting paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3433772) which looks into Public Benefit LLCs and their funding. Turns out they're much closer to profit-seeking corporations than I had understood.
