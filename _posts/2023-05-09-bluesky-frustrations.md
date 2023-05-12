@@ -52,10 +52,10 @@ All of these are challenges for the future. I selfishly wish that more people wo
 
 <hr>
 
-[^3]: EDIT: I ended up getting invited. I think it was because this article was mentioned one of the devs on Bluesky. I'm now @gavin.anderegg.ca over there. I may write an impressions post in the future.
+[^3]: I ended up getting invited. I think it was because this article was mentioned one of the devs on Bluesky. I'm now @gavin.anderegg.ca over there. I may write an impressions post in the future.
 
 [^1]: I can’t find this in the documentation anywhere, but it's [mentioned in a Hacker News comment](https://news.ycombinator.com/item?id=35845887). It seems like there will be “deletions” which sound like the content will stick around, and “purges” (like Git rebase) which are likely to be inefficient.
 
 [^2]: This is both hilarious and pretty irritating. You can get every post via the API now, but you can’t link to a post on the web if you’re not logged in? Huh?
 
-[^4]: EDIT: [It was pointed out to me by Timothy Swan](https://mastodon.social/@timswan/110345616237124525) that Public Benefit LLCs can receive VC funding. I dug into this a bit more, and [found an interesting paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3433772) which looks into Public Benefit LLCs and their funding. Turns out they're much closer to profit-seeking corporations than I had understood.
+[^4]: [It was pointed out to me by Timothy Swan](https://mastodon.social/@timswan/110345616237124525) that Public Benefit LLCs can receive VC funding. I dug into this a bit more, and [found an interesting paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3433772) which looks into Public Benefit LLCs and their funding. Turns out they're much closer to profit-seeking corporations than I had understood.
