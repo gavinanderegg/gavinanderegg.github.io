@@ -15,7 +15,7 @@ I’m using [Plausible’s smallest plan](https://plausible.io/#pricing). I don�
 
 Happily, it turns out that [Plausible is pretty lenient about this sort of thing](https://plausible.io/docs/subscription-plans#what-happens-if-i-go-over-my-monthly-page-views-limit).
 
-My site is statically generated and hosted on GitHub Pages, so there was no indication slowdown. Other than the position of the post on the Hacker News front page and the comments being generated, I wouldn't have noticed any additional eyeballs on my content.
+My site is statically generated and hosted on GitHub Pages, so the site remained responsive throughout the traffic spike. Other than the position of the post on the Hacker News front page and the comments being generated, I wouldn't have noticed any additional eyeballs on my content.
 
 About those comments: I mostly try to avoid comment sections on the internet, but I found it hard to do so in this case. Happily it wasn't too bad. The main gripe was my use of the term “novel” in the title of the post. Fair enough. I started the piece explaining that I wasn’t sure if the scam was *new*, but that it was *new to me*. But if you’ve been seeing this for months, or were more in-the-know about scams, I could understand being bored by it.
 
