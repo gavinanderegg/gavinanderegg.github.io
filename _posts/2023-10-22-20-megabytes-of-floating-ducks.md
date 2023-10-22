@@ -1,5 +1,5 @@
 ---
-title: 20 Megabytes of Floating Ducks
+title: Twenty Megabytes of Floating Ducks
 date: 2023-10-22 11:39:51 -0300
 ---
 
