@@ -15,7 +15,7 @@ Seeing this site reminded me of another example: [the Halifax Burger Bash websit
 
 While discussing the carnival site, I mentioned a project I like: [1MB Club](https://1mb.club). This is a fun project collecting sites that load in less than a megabyte. I've been building for the web since the mid-90s. The first web hosting account I paid for gave me 1.44 megs of space in total. The size of a 3½-inch floppy disk. This was enough for a surprising amount of content!
 
-Both the carnival site and the burger site were built in WordPress using pre-configured themes [^3]. Even if not loaded down with videos of ducks, these themes are bulky. I'm certain they help speed up site development, but I don't think I've ever been impressed with a site built this way. The challenge is that most web work is commoditized now. It's often easier to get into the groove of LEGO bricking together something with a site builder or an overgrown JavaScript framework.
+Both the carnival site and the burger site were built in WordPress using pre-configured themes [^3]. Even if not loaded down with videos of ducks, these themes are bulky. I'm certain they help speed up site development, but I don't think I've ever been impressed with a site built this way. The challenge is that most web work is commoditized now. It's often easier to get into the groove of LEGO bricking together something with a site builder, or use a large JavaScript framework when a static site would do.
 
 It might be a losing battle, but I continue to push back with some success. This is in part because I've lucked into working with some great companies. Either way, I hope to keep the punk rock vibe going as long as possible.
 
