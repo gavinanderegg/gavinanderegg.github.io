@@ -1,5 +1,6 @@
 ---
-title: TIL: Wikimedia Stats
+title: >
+    TIL: Wikimedia Stats
 date: 2023-12-08 07:17:12 -0400
 ---
 
