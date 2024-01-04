@@ -173,7 +173,7 @@ body {
 	text-align: right;
 }
 
-@media screen and (max-width: 959px) {
+@media screen and (max-width: 480px) {
 	#content {
 		font-size: 100%;
 		padding: 24px;
@@ -183,5 +183,28 @@ body {
 		font-size: 24px;
 		padding-top: 32px;
 		padding-bottom: 4px;
+	}
+
+	#top {
+		h1 a {
+			font-size: 32px;
+			bottom: -8px;
+		}
+
+		#mainNav {
+			top: 16px;
+
+			li {
+				float: none;
+				display: inline-block;
+				margin-top: 0;
+				line-height: 18px;
+				margin-bottom: 24px;
+			}
+
+			li a {
+				padding: 8px 12px;
+			}
+		}
 	}
 }
