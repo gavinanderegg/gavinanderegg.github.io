@@ -7,4 +7,4 @@ date: 2024-01-09 21:03:04 -0400
 
 I hadn't checked back on the site in a while, but it's been improved recently. Today I saw a [Mastodon post](https://mastodon.social/@OohDirectory/111715394258448023) announcing individual stats pages for every site the directory tracks. I love this feature!
 
-[You can check out the stats page for anderegg.ca here.](https://ooh.directory/blog/82jj26/)
+[You can check out the stats page for anderegg.ca here](https://ooh.directory/blog/82jj26/).
