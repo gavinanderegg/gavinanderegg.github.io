@@ -15,7 +15,7 @@ Looking at the [MDN page for the `html` element](https://developer.mozilla.org/e
 
 So, there are two features listed here that almost all browsers *correctly* do not support. But still, it doesn't look like this is the reason for the missing 2.66%. There are some browsers that are listed as "Support Unknown". Adding up all the current usage for these browsers comes to 2.53%. There's also an entry for Android Browser versions 2.1–4.3 which is listed as not supporting the `html` element — which I find highly dubious — but it's listed as having a usage share of 0%. I suppose there might be some rounding errors here that would bump the 2.53% to 2.66%? But I still find this very unclear.
 
-So yeah, I don't have a great answer for this. If you do, please let me know! I've always taken the numbers from CanIUse.com with a few grains of salt, but I'll be adding a few more going forward. I still think it's a great resource.
+So yeah, I don't have a great answer for this. If you do, [please let me know](https://mastodon.social/@gavinanderegg)! I've always taken the numbers from CanIUse.com with a few grains of salt, but I'll be adding a few more going forward. I still think it's a great resource.
 
 --
 
