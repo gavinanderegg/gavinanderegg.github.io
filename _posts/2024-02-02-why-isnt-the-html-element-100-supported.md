@@ -7,7 +7,7 @@ I saw a [Mastodon post](https://mastodon.gamedev.place/@Ronflaix/111862153259345
 
 A bit of background, first. [Can I Use…](https://caniuse.com) is a site that helps web developers track the adoption rate of web technologies. It estimates browser usage, measures feature compatibility, and spits out a number that tries to reflect how available a feature is. It's a site I've been using almost since [it launched in 2010](https://web.archive.org/web/20100430032738/http://caniuse.com/) and I've always found it really useful.
 
-So why is it currently saying the `html` element only has 97.34% support? That's less than the current support percentage for the [`audio` element](https://caniuse.com/audio)!
+So why is it currently saying the `html` element only has 97.34% support? That's less than the current support percentage for the [`audio` element](https://caniuse.com/audio)! It also looks like the same is true for the [`a`](https://caniuse.com/mdn-html_elements_a) and [`p`](https://caniuse.com/mdn-html_elements_p) elements with exactly the same 97.34% support number.
 
 One thing I learned when looking into this is that a lot of the data on the site actually comes from [MDN](https://developer.mozilla.org/en-US/) [^1]. MDN is another resource I use and trust, so this seems reasonable to me. It also often has stats about feature uptake, so it makes sense for CanIUse.com to piggyback on that.
 
