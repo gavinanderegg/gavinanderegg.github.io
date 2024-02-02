@@ -17,6 +17,6 @@ So, there are two features listed here that almost all browsers *correctly* do n
 
 So yeah, I don't have a great answer for this. If you do, [please let me know](https://mastodon.social/@gavinanderegg)! I've always taken the numbers from CanIUse.com with a few grains of salt, but I'll be adding a few more going forward. I still think it's a great resource.
 
---
+---
 
 [^1]: MDN used to stand for [Mozilla Developer Network](https://en.wikipedia.org/wiki/MDN_Web_Docs). Now it's just MDN. I spent a few minutes looking on the MDN site to see if I could find any mention of the full name, but I guess they're just all in on "MDN" now.
