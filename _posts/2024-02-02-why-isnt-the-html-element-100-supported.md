@@ -19,4 +19,8 @@ So yeah, I don't have a great answer for this. If you do, [please let me know](h
 
 ---
 
+**UPDATE:** [rezonant](https://cliff.social/@rezonant) on Mastodon poked me to let me know that he posted a [comment on Hacker News](https://news.ycombinator.com/item?id=39236148) that has a possible explanation. The short version: if you switch to "% of all tracked" in the top right beside "usage", and then add up the "support unknown" browser number, you get 99.98%. It's a lot easier to see how rounding errors could make this the correct number. Still, I think the way older browsers are handled here is confusing. It doesn't affect the overall number too much, but in the case of base level elements like `html`, it seems odd.
+
+---
+
 [^1]: MDN used to stand for [Mozilla Developer Network](https://en.wikipedia.org/wiki/MDN_Web_Docs). Now it's just MDN. I spent a few minutes looking on the MDN site to see if I could find any mention of the full name, but I guess they're just all in on "MDN" now.
