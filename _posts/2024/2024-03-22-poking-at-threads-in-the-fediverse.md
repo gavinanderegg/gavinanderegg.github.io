@@ -23,6 +23,6 @@ The other potential issue: [fediverse admins defederating from other instances w
 
 [^1]: The [sign-up process](https://engineering.fb.com/2024/03/21/networking-traffic/threads-has-entered-the-fediverse/#:~:text=The%20current%20state%20of%20fediverse%20integration%20in%20Threads) is quite nice when it's working. There's a [nice overview of federated networking](https://engineering.fb.com/wp-content/uploads/2024/03/Threads-consent-flow.png) as part of the sign-up/consent flow.
 
-[^2]: Another interesting ActivityPub extension by Misskey is `[isCat](https://misskey-hub.net/ns/#iscat)`.
+[^2]: Another interesting ActivityPub extension by Misskey is [`isCat`](https://misskey-hub.net/ns/#iscat).
 
 [^4]: Threads only has access to your public data or the data you share with Threads users. That data's already public, or being shared with Meta explicitly. Anyone with access to the web can scrape and index the public data already.
