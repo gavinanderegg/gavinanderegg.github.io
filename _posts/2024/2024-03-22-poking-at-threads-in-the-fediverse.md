@@ -1,6 +1,6 @@
 ---
 title: Poking at Threads in the Fediverse
-date: 2024-03-22 16:20:00 -0300
+date: 2024-03-22 16:40:00 -0300
 ---
 
 Yesterday, the Threads team [started rolling out their fediverse integration](https://www.threads.net/@mosseri/post/C4yY-JPPapO) to users in the [US, Canada, and Japan](https://help.instagram.com/760878905943039). I tried signing up for this when I saw [that](https://mastodon.social/@zuck@threads.net/112134819543015910) [some](https://mastodon.social/@_zmknox@threads.net/112135260520972779) [users](https://mastodon.social/@dan_sup@threads.net/112135316863796578) were boosting their first cross-network posts. Sadly, the sign-up process [^1] [didn't work](https://www.threads.net/@gavinanderegg/post/C4yd1z_OrNN) all Thursday for me. [It all worked this morning](https://www.threads.net/@gavinanderegg/post/C40YHXnuMQi) though, and I've spent some time poking at it.
