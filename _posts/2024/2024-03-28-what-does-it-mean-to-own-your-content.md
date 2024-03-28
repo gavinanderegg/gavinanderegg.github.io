@@ -14,7 +14,7 @@ One of the values of the Micro.blog team is [owning your data](https://micro.blo
 * You have to pay to host content on the service, [which is a good sign](https://www.metafilter.com/95152/Userdriven-discontent#3256046),
 * you're encouraged to [use your own domain](https://help.micro.blog/t/custom-domain-names/53),
 * there are multiple ways to [export your content from the service](https://help.micro.blog/t/exporting-from-micro-blog/557), including to WordPress or with periodic backups to a GitHub repository,
-* ultimately, the service is a managed [Hugo](https://gohugo.io) host. It's reasonably easy to migrate your content because of this.
+* ultimately, the service is a [managed Hugo host](https://custom.micro.blog/2022/02/19/porting-hugo-theme.html). It's reasonably easy to migrate your content because of this.
 
 Does this count as "ownership"? I'm pretty sure the answer is yes, but I still had some questions in the back of my mind. Why do I think Micro.blog allows more ownership than Twitter did? Twitter allowed you to export your data after all. Twitter also allowed you to pay (although only for extra features). Do I own my Micro.blog content *more* because it has additional export options and can be tied to a domain I control? What if I’m using a default `micro.blog` URL instead?
 
