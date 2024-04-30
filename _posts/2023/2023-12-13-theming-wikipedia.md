@@ -26,7 +26,7 @@ Earlier this year, after I learned of the Wikipedia redesign, I checked back in 
 
 [The Wikipedia:Skin page has instructions for how to customize a skin](https://en.wikipedia.org/wiki/Wikipedia:Skin#Customisation), if you want to try this for yourself. You can also add or override JavaScript behaviour globally or for a specific skin, though I haven't done this.
 
-For the curious, [this is what my theme looks like in Safari](https://anderegg.s3.amazonaws.com/wikipedia-theme.png). As well as the changes above, I also shrunk the size of the main content column, and removed the band of colour just below the sticky header.
+For the curious, [this is what my theme looks like in Safari](/assets/wikipedia-theme.png). As well as the changes above, I also shrunk the size of the main content column, and removed the band of colour just below the sticky header.
 
 ---
 

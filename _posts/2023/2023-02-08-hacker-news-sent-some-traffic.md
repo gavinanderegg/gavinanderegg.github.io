@@ -11,7 +11,7 @@ My first thought was: wow, that second chance pool is no joke! My second thought
 
 I’m using [Plausible’s smallest plan](https://plausible.io/#pricing). I don’t mind upgrading if I need to, but my traffic was tiny before this spike. In the time between setting up Plausible in November and submitting the PayPal post, I'd gotten just under 900 pageviews in total.
 
-<img src="https://anderegg.s3.amazonaws.com/hn-stats-spike.png" width="1083" height="353" style="margin: auto; border: 4px solid #556;" alt="A chart from Plausible.io showing a large traffic spike.">
+<img src="/assets/hn-stats-spike.png" width="1083" height="353" style="margin: auto; border: 4px solid #556;" alt="A chart from Plausible.io showing a large traffic spike.">
 
 Happily, it turns out that [Plausible is pretty lenient about this sort of thing](https://plausible.io/docs/subscription-plans#what-happens-if-i-go-over-my-monthly-page-views-limit).
 

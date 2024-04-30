@@ -28,7 +28,7 @@ My runners up from the CodingFont.com tournament were:
 
 ### Examples
 
-* [Hack](https://anderegg.s3.amazonaws.com/typefaces/hack.png)
-* [Inconsolata](https://anderegg.s3.amazonaws.com/typefaces/inconsolata.png)
-* [JetBrains Mono](https://anderegg.s3.amazonaws.com/typefaces/jetbrains-mono.png)
-* [Menlo](https://anderegg.s3.amazonaws.com/typefaces/menlo.png)
+* [Hack](/assets/typefaces/hack.png)
+* [Inconsolata](/assets/typefaces/inconsolata.png)
+* [JetBrains Mono](/assets/typefaces/jetbrains-mono.png)
+* [Menlo](/assets/typefaces/menlo.png)

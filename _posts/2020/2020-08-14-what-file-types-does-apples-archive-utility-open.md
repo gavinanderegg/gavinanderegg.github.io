@@ -34,7 +34,7 @@ This morning I was reading [an article about improvements to the Brotli compress
 
 There was a [Super User answer that pointed me in the right direction](https://superuser.com/questions/440657/search-for-files-which-will-open-a-certain-application-in-mac-os-x/440670#440670), but Archive Utility didn’t have an `Info.plist` with the file information. What it had instead was a bunch of icons that listed the extension names for supported files. It’s not 100% clear if this list is exhaustive, but it’s good enough for me.
 
-![Archive Utility's Resources folder](https://anderegg.s3.amazonaws.com/archive-utility.png)
+![Archive Utility's Resources folder](/assets/archive-utility.png)
 
 You can find this folder here:
 

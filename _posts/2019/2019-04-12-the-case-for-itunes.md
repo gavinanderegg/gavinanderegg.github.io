@@ -20,11 +20,11 @@ With the features in iTunes I was able to find the above statistics about my mus
 
 I’m a heavy user of smart playlists. You can view these in the iOS Music app, but you can’t create them there. Smart playlists are part of how I was able to easily look up the above song counts. It’s also how I can salvage music from when Apple Music loses the plot. More than that, they keep track of music as my tastes change, and allow me to automatically create lists of my favourite songs through the years.
 
-![iTunes smart playlist dialog](https://anderegg.s3.amazonaws.com/itunes/2019-04-12-smart-playlist.png)
+![iTunes smart playlist dialog](/assets/itunes/2019-04-12-smart-playlist.png)
 
 I live inside of the “Songs” view, which looks like a giant spreadsheet. I love it, and it’s the only way music makes sense to me. It allows me to sort and find songs using dozens of configurable categories. This sort of sorting and filter is something I do pretty much every day as I waffle between music selections.
 
-![iTunes song view](https://anderegg.s3.amazonaws.com/itunes/2019-04-12-songs-view.png)
+![iTunes song view](/assets/itunes/2019-04-12-songs-view.png)
 
 My biggest worry is that a new “Marzipan” music app won’t have any of these features. At least at first. I just hope that Apple has a place in their hearts for music weirdos like me. They're always talking about how passionate they are about music, so I hope there are some one staff that understand.
 
