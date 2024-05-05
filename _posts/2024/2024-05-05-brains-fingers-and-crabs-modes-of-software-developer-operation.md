@@ -21,7 +21,7 @@ The idea with this mode was that we were waggling our primate hand-digits agains
 
 Imagine miming crab claws with your hands. Now imagine closing each claw and randomly mashing the keyboard. That's about how effective you were in this mode. I often entered this state after a long client meeting or if I was banging my head against a tough problem for too long. I found going for a walk would sometimes help to get out of this state. If a couple of us were feeling this way, we might head out for a coffee[^1] or play some games for a bit.
 
-I don't think there's anything that novel here, but it was a helpful shorthand. It's still something I reach for as a model when planning out work. Specifically, how much Brain Hats time will be needed to deal with a problem.
+I don't think there's anything that novel here, but it was a helpful shorthand. It's still something I reach for as a model when planning out work.
 
 ---
 
