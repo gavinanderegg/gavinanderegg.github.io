@@ -1,0 +1,22 @@
+---
+title: Apple's May 2024 iPad Event
+date: 2024-05-07 16:10:25 -0300
+---
+
+Apple had their [iPad "event" this morning](https://podcasts.apple.com/ca/podcast/apple-event-may-7/id275834665?i=1000654821230). They've really perfected the art of getting nerds like me to watch an infomercial! I'm looking to upgrade an iPad, so this one definitely had my interest.
+
+They started off with updates to the [iPad air](https://www.apple.com/ipad-air/). The air line is great, and they now come in 11-inch and 13-inch sizes. This is actually two changes in one: previously there was only an 11-inch model, and previously everything iPad-related in this size class was listed as "12.9 inches". Apple has happily updated the size to "13 inch", which everyone was already saying anyway. Both sizes now come with the M2 processor, making them fast as the previous iPad Pros. They also continue to use the existing Magic Keyboard. If you buy one of these today, you'll have a great iPad for many years to come.
+
+Apple then showed off the new [iPad Pro](https://www.apple.com/ipad-pro/) line. They're hyping up a new two-layer OLED display, which seems insane. I'm interested to see impressions from people with hands-on time. The previous iPad Pros already had amazing displays, but this looks to be another leap forward. There's a new option to have a nano-texture anti-glare finish on the panel. This seems wild on a device you're expected to touch, and that [required a special cleaning cloth on the Apple Pro Display XDR](https://512pixels.net/2019/12/on-cleaning-the-pro-display-xdr/). Apple is calling this "the world’s most advanced display", which seems like massive overkill for an iPad… but I guess it'll be great for watching video in bed.
+
+Speaking of massive overkill, the iPads Pro both come with an M4 processor. This really surprised me! The M3 was only introduced at the [end of last year](https://www.apple.com/ca/newsroom/2023/10/apple-unveils-m3-m3-pro-and-m3-max-the-most-advanced-chips-for-a-personal-computer/). I guess if the chip is ready, why not put it in a low-volume product first. Still, I'm not certain about what most people would do with this much processing grunt. It will definitely be a great tablet for a long time! WWDC is next month, so maybe Apple will show off new iPadOS features that take advantage of this power? We'll see, but I'm not holding my breath.
+
+To be fair, Apple also showed off updates to two pro apps for iPadOS: Final Cut Pro and Logic Pro. I don't do anything in this realm, and I'm sure there are people taking full advantage of an iPad Pro out there. I just don't think it's most people who buy an iPad Pro.
+
+The iPad Pro also got a [newly redesigned Magic Keyboard](https://www.apple.com/ipad-keyboards/#magic-keyboard-ipad-pro-gallery). This is really interesting to me, and is one of the main reasons I might go for the Pro line again when upgrading. I'm currently using a 2020 iPad Pro with the older design of the Magic Keyboard, and I love it. The biggest issue was the lack of an "Esc" key, but I got around this by remapping the "Globe" key to "Esc" in settings. That isn't ideal, and the new keyboard design also has a full function row and a larger trackpad to boot.
+
+Next up was the new [Apple Pencil Pro](https://www.apple.com/apple-pencil/). This looks really impressive! The iPads air and Pro were already exceptional devices for artists, and the new Pencil adds additional input and feedback that rival just about anything Wacom has to offer. I got a 2nd generation Apple Pencil with my iPad Pro, but I'm not the right audience. I thought I might convince myself to play around more with [Procreate](https://procreate.com), but I mostly use it for signing documents these days. People with better [skills of an artist](https://www.youtube.com/watch?v=wHRzjguU2pU) will be better able to judge, but this looks pretty impressive to me. It also works on the new iPad air, which I think is the right answer for most people looking to draw or 3D model on their iPad.
+
+Lastly, Apple dropped the price on the 10th generation base iPad. I've snarked about the M4 above mostly because the base level iPads are really fast. If you know someone with very light computing needs, you could do a whole heck of a lot worse than getting them a base-level iPad with the Magic Keyboard Folio.
+
+Overall, this was a great update to the iPad lineup. It's a shame there wasn't any news about the iPad mini. Now I just need to see what my wallet can bare when it comes to upgrades.
