@@ -15,7 +15,7 @@ In a [recent episode of The Besties](https://thebesties.substack.com/p/prince-of
 
 Think about it this way: imagine if we called horror films "Frankenstein-likes", or referred to punk music as "Ramones-like". It's fine to use a shorthand to compare media, but naming a genre after a specific work seems odd everywhere besides gaming.
 
-I'm not a stickler for any of this stuff. Language changes, and that's fine. I just thought this was interesting, and assumed this is where the Ahoy video was going at first.
+I'm not a stickler for any of this stuff. Language changes, and that's fine. I just thought this was interesting, and think it's always a good idea to be mindful of how we name things.
 
 ---
 
