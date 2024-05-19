@@ -25,7 +25,7 @@ This process is a lot. It's built around a bunch of command line tools with hand
 
 I do plan to make some more tweaks to my site, and also continue exploring the options around static site generation, but I think I'll be sticking with Jekyll for a while yet because it's working. We'll see how things change once I'm on the other side of [Weblog Posting Month](https://anderegg.ca/2024/05/02/weblog-posting-month-2024).
 
-**Update:** [Robert Birming](https://birming.com) has [collected a list of other people's workflows](https://birming.com/posts/our-blogging-workflow), which I enjoyed reading over.
+**Update:** [Robert Birming](https://birming.com) has [collected a list of blogging workflows](https://birming.com/posts/our-blogging-workflow), which I enjoyed reading over.
 
 ---
 
