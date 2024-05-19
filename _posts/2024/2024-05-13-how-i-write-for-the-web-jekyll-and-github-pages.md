@@ -25,6 +25,8 @@ This process is a lot. It's built around a bunch of command line tools with hand
 
 I do plan to make some more tweaks to my site, and also continue exploring the options around static site generation, but I think I'll be sticking with Jekyll for a while yet because it's working. We'll see how things change once I'm on the other side of [Weblog Posting Month](https://anderegg.ca/2024/05/02/weblog-posting-month-2024).
 
+**Update:** [Robert Birming](https://birming.com) has [collected a list of other people's workflows](https://birming.com/posts/our-blogging-workflow), which I enjoyed reading over.
+
 ---
 
 [^1]: It's actually an [Atom feed](https://en.wikipedia.org/wiki/Atom_(web_standard)), but it does the same job. I find most web folks know what I mean when I say "RSS feed", but some people are confused by "Atom feed". Both are well supported, so I just used the [plugin provided by GitHub Pages](https://pages.github.com/versions/), which happens to support Atom.
