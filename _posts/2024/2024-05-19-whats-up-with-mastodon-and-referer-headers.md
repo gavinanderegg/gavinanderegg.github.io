@@ -17,4 +17,4 @@ I was mostly coming at this from a curiosity angle, and I understand the privacy
 
 ---
 
-[^1]: I was today years old when I realized that "Referer" isn't spelled correctly. Apparently this is a spelling mistake that was [locked into the specification in 1996](https://en.wikipedia.org/wiki/HTTP_referer#Etymology). I guess I've gotten away this long without realizing it because I've been saved by HTTP libraries?
+[^1]: I only realized today that "Referer" isn't spelled correctly. Apparently this is a spelling mistake that was [locked into the specification in 1996](https://en.wikipedia.org/wiki/HTTP_referer#Etymology). I guess I've gotten away this long without realizing it because I've been saved by HTTP libraries?
