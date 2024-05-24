@@ -1,0 +1,16 @@
+---
+title: On Template-Based Feed Generation
+date: 2024-05-24 13:47:31 -0300
+---
+
+A couple of days ago, I was [demoralized by a minor Jekyll issue](https://anderegg.ca/2024/05/22/jekyll-might-have-failed-me). I was thinking about generating a single [Atom feed](https://en.wikipedia.org/wiki/Atom_(web_standard)) from two content types. Turns out the plugin provided by GitHub Pages can't do this directly.
+
+When I was looking into this, I saw someone mentioning that they [made their own feed template](https://github.com/jekyll/jekyll-feed/issues/289#issuecomment-689020194). This rubbed me the wrong way. I do a lot of systems integrations, and have encountered a huge amount of malformed  XML in my career. I prefer to use a well-tested XML library when generating or consuming XML content so as to avoid these issues.
+
+I ranted about this to [a friend](https://mrb0.com/) and he asked me how I felt about templated HTML documents. I write a lot of HTML by hand, and hadn't considered the similarities. Web browsers are robust and built to try their best with even the most poorly formed markup. XML is expected to be well formed and many libraries will stop parsing at the first sign of a validation error.
+
+But my mind flipped a bit because of this comparison. For one thing, even though there are a lot of ways to mess up HTML markup with templates, I can protect against most of them if I'm careful. In fact, I can [validate my markup](https://validator.w3.org/nu/?doc=https%3A%2F%2Fanderegg.ca%2F) to confirm that I'm not doing something obviously stupid. RSS/Atom feeds are XML documents, but they're also web documents that regularly get a bit mangled. Feed readers may not be as robust as web browsers, but they are good at dealing with the most common errors. Plus, I can also [validate my feed's XML](https://validator.w3.org/feed/check.cgi?url=https%3A%2F%2Fanderegg.ca%2Ffeed.xml) to ensure it's OK.
+
+As I was writing the first post, I discovered that the feed generator I use [has always been template-based](https://github.com/jekyll/jekyll-feed/blob/master/lib/jekyll-feed/feed.xml). Since then, I also looked into generators for [Hugo](https://gohugo.io/) and [11ty](https://www.11ty.dev/). Turns out they're both also template based! [Here's the first-party Hugo feed generation template](https://github.com/gohugoio/hugo/blob/master/tpl/tplimpl/embedded/templates/_default/rss.xml), and [here's the one for 11ty](https://github.com/11ty/eleventy-plugin-rss/blob/master/sample/feed.njk). Neither allow combining of separate content feeds by default, and the advice is the same as with Jekyll: [modify the feed template to query for the content you want](https://discourse.gohugo.io/t/how-do-you-combine-several-rss-feeds/21975/2).
+
+While I was looking into this I also realized that I don't need a separate "Links" type. [I should just post stuff and stop over thinking things](https://anderegg.ca/2024/01/03/just-write-you-dolt). I keep arriving at this decision, then end up waffling about a "correct" way to post. I will keep tweaking the site, but I want the changes to be incremental. I definitely don't want to replatform the site while I'm this close to [the end of May](https://anderegg.ca/2024/05/02/weblog-posting-month-2024).
