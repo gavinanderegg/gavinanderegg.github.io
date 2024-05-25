@@ -1,5 +1,6 @@
 ---
-title: The Pen Addict: Beta Type-R Review
+title: >
+    The Pen Addict: Beta Type-R Review
 date: 2024-05-25 15:19:32 -0300
 ---
 
