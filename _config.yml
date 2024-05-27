@@ -10,6 +10,15 @@ description: "Something (slightly) less boring than nothing."
 timezone: "America/Halifax"
 logo: "/img/logo.png"
 include: [".well-known"]
+docs:
+- title: Home
+  url:
+- title: Projects
+  url: /projects/
+- title: Archives
+  url: /archives/
+- title: About
+  url: /about/
 defaults:
   -
     scope:
