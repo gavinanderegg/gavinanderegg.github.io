@@ -28,7 +28,7 @@ body {
 	border-bottom: 1px solid #484852;
 	background-image: url(/img/pixels.png);
 	font-family: "Helvetica", sans-serif;
-	height: 120px;
+	height: 86px;
 
 	h1 a {
 		display: block;
@@ -182,7 +182,6 @@ body {
 	}
 }
 
-
 #bottom {
 	max-width: 800px;
 	margin: auto;
@@ -204,7 +203,7 @@ body {
 	}
 
 	#top {
-		height: 68px;
+		height: 62px;
 
 		h1 a {
 			font-size: 32px;
@@ -213,19 +212,39 @@ body {
 	}
 
 	#main {
-
-		display: none;
+		flex-direction: column;
 
 		#mainNav {
-			display: block;
+			width: 100%;
+			max-width: 100%;
+			border: 0;
 
 			ul {
-				display: block;
+				flex-direction: row;
+				justify-content: center;
+				flex-wrap: wrap;
 
 				li {
-					display: none;
+
+					display: inline-block;
+					border: 0;
+
+					a {
+						padding: 0.8em 1.2em;
+					}
 				}
 			}
+		}
+	}
+
+	#bottom {
+		margin: auto;
+		padding: 2em 3.2em 4em 3.2em;
+		font-family: "Helvetica", sans-serif;
+		text-align: center;
+
+		p {
+			margin: 0.8em 0;
 		}
 	}
 }
