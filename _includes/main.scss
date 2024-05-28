@@ -59,6 +59,7 @@ body {
 		ul {
 			display: flex;
 			flex-direction: row;
+			flex-wrap: wrap;
 			justify-content: center;
 			width: 100%;
 
@@ -218,7 +219,7 @@ body {
 			ul {
 				li {
 					a {
-						font-size: 90%;
+						font-size: 88%;
 						padding: 1.2em 1.4em 1em 1.4em;
 					}
 				}
