@@ -44,6 +44,7 @@ body {
 
 #main {
 	display: flex;
+	border-bottom: 2px solid rgba(0, 0, 0, 0.4);
 
 	#mainNav {
 		display: flex;
@@ -53,7 +54,6 @@ body {
 		font-family: "Helvetica", sans-serif;
 		background: rgba(0, 0, 0, 0.2);
 		border-right: 2px solid rgba(0, 0, 0, 0.4);
-		border-bottom: 2px solid rgba(0, 0, 0, 0.4);
 
 		ul {
 			display: flex;
@@ -89,8 +89,6 @@ body {
 	font-size: 20px;
 	line-height: 156%;
 	text-shadow: 0px 1px 1px #080812;
-	clear: both;
-	border-bottom: 1px solid #35333C;
 
 	img {
 		max-width: 90%;
@@ -183,11 +181,14 @@ body {
 }
 
 #bottom {
-	max-width: 800px;
-	margin: auto;
-	padding: 68px 80px;
 	font-family: "Helvetica", sans-serif;
 	text-align: right;
+	background-color: rgba(0, 0, 0, 0.4);
+
+	.content {
+		margin: auto;
+		padding: 64px;
+	}
 }
 
 @media screen and (max-width: 680px) {
@@ -206,6 +207,7 @@ body {
 		height: 62px;
 
 		h1 a {
+			right: 32px;
 			font-size: 32px;
 			bottom: -8px;
 		}
@@ -238,13 +240,15 @@ body {
 	}
 
 	#bottom {
-		margin: auto;
-		padding: 2em 3.2em 4em 3.2em;
-		font-family: "Helvetica", sans-serif;
 		text-align: center;
 
-		p {
-			margin: 0.8em 0;
+		.content {
+			margin: 0;
+			padding: 1em 32px;
+
+			p {
+				margin: 0.8em 0;
+			}
 		}
 	}
 }
