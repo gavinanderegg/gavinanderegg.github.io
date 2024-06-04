@@ -10,7 +10,7 @@ filename = re.sub('\s+', '-', filename)
 filename = str(datetime.date.today()) + '-' + filename + '.md'
 
 header = '---\n'
-header += 'title: ' + title + '\n'
+header += 'title: >\n    ' + title + '\n'
 header += 'date: ' + str(datetime.datetime.now().astimezone().strftime('%Y-%m-%d %H:%M:%S %z')) + '\n'
 header += '---\n\n'
 
