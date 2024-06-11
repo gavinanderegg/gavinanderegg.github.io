@@ -25,7 +25,7 @@ body {
 #top {
 	position: relative;
 	background-color: #2D2C35;
-	border-bottom: 2px solid #484852;
+	border-bottom: 4px solid #484852;
 	background-image: url(/img/pixels.png);
 	font-family: "Helvetica", sans-serif;
 	height: 68px;
@@ -46,16 +46,16 @@ body {
 #main {
 	display: flex;
 	flex-direction: column;
-	border-bottom: 2px solid rgba(0, 0, 0, 0.4);
+	border-bottom: 4px solid rgba(0, 0, 0, 0.8);
 
 	#mainNav {
 		display: flex;
 		width: 100%;
 		max-width: 100%;
-		font-size: 1.1em;
+		font-size: 1.1rem;
 		font-family: "Helvetica", sans-serif;
 		background: rgba(0,0,0,0.4);
-		border-bottom: 2px solid rgba(0, 0, 0, 0.4);
+		border-bottom: 4px solid rgba(0, 0, 0, 0.8);
 
 		ul {
 			display: flex;
@@ -69,7 +69,7 @@ body {
 
 				a {
 					display: block;
-					padding: 1.2em 1.4em;
+					padding: 1.2rem 1.4rem;
 				}
 
 				&.active {
@@ -87,7 +87,7 @@ body {
 #content {
 	max-width: 800px;
 	margin: auto;
-	padding: 2.8em 3em 3em 3em;
+	padding: 2.8rem 3rem 3rem 3rem;
 	font-size: 20px;
 	line-height: 156%;
 	text-shadow: 0 1px 1px #080812;
@@ -178,7 +178,7 @@ body {
 		border: none;
 		background: #999;
 		height: 1px;
-		margin: 2.4em 2em;
+		margin: 2.4rem 2rem;
 	}
 }
 
@@ -196,7 +196,7 @@ body {
 @media screen and (max-width: 680px) {
 	#content {
 		font-size: 100%;
-		padding: 1em 2em 3em 2em;
+		padding: 1rem 2rem 3rem 2rem;
 	}
 
 	#content article > h2 {
@@ -221,7 +221,7 @@ body {
 				li {
 					a {
 						font-size: 88%;
-						padding: 1.2em 1.4em 1em 1.4em;
+						padding: 1.2rem 1.4rem 1rem 1.4rem;
 					}
 				}
 			}
@@ -230,13 +230,14 @@ body {
 
 	#bottom {
 		text-align: center;
+		font-size: 0.8rem;
 
 		.content {
 			margin: 0;
-			padding: 1em 32px;
+			padding: 1rem 32px;
 
 			p {
-				margin: 0.8em 0;
+				margin: 0.8rem 0;
 			}
 		}
 	}
