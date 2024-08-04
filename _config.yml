@@ -15,10 +15,10 @@ docs:
   url: /
 - title: Projects
   url: /projects/
-- title: Archives
-  url: /archives/
 - title: About
   url: /about/
+- title: Archives
+  url: /archives/
 defaults:
   -
     scope:

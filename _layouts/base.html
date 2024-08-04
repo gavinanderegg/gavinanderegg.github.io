@@ -15,7 +15,7 @@
 		<div id="main">
 			<nav id="mainNav">
 				<ul>{% for item in site.docs %}
-					<li{% if item.url == page.url %} class="active"{% endif %}><a href="{{ item.url }}">{{ item.title }}</a></li>{% endfor %}
+					<li class="{{item.title | slugify}}{% if item.url == page.url %} active{% endif %}"><a href="{{ item.url }}">{{ item.title }}</a></li>{% endfor %}
 				</ul>
 			</nav>
 
