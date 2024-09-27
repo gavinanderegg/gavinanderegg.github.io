@@ -22,7 +22,7 @@ Later the same day, WP Engine customers reported issues accessing the WordPress.
 
 ---
 
-What a mess. Maybe there's something we're not seeing from the outside, but to me this looks like Mullenweg has gone off the deep end. Is this a personal beef with Silver Lake? With Lee Wittlinger? If not, every commercial enterprise has the word "WordPress" in their marketing copy needs to watch out.
+What a mess. Maybe there's something we're not seeing from the outside, but to me this looks like Mullenweg has gone off the deep end. Is this a personal beef with Silver Lake? With Lee Wittlinger? If not, every commercial enterprise with the word "WordPress" in their marketing copy needs to watch out.
 
 I've used WP Engine happily for several projects and found it to be a fine host. Yes, [they disable the revisions system by default](https://wpengine.com/support/platform-settings/#Post_Revisions). But this isn't some "hack" — [WordPress provides a built-in way to configure or disable this system](https://wordpress.org/documentation/article/revisions/#revision-options).
 
