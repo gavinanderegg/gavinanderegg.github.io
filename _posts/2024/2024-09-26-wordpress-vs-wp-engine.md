@@ -26,7 +26,7 @@ What a mess. Maybe there's something we're not seeing from the outside, but to m
 
 I've used WP Engine happily for several projects and found it to be a fine host. Yes, [they disable the revisions system by default](https://wpengine.com/support/platform-settings/#Post_Revisions). But this isn't some "hack" — [WordPress provides a built-in way to configure or disable this system](https://wordpress.org/documentation/article/revisions/#revision-options).
 
-Also, as I was digging into this, I learned that Automattic invested in WP Engine. In fact, it was [the first investment made by Automattic's A8c Ventures](https://automattic.com/ventures/) in 2011. They didn't seem concerned trademark issues at that point. I'm curious what changed?
+Also, as I was digging into this, I learned that Automattic invested in WP Engine. In fact, it was [the first investment made by Automattic's A8c Ventures](https://automattic.com/ventures/) in 2011. They didn't seem concerned with trademark issues at that point. I'm curious what changed?
 
 One thing is the trademark policy page I mentioned above. They previously noted that "WP" was fine, and anyone could use it. [As Kev Quirk points out](https://kevquirk.com/blog/my-thoughts-on-the-wordpress-drama), there are a number of companies with "WP" as part of their name. Are they now in danger? I really doubt they've all made licensing agreements with Automattic. Some of the screenshots used in [Automattic's cease and desist letter](https://automattic.com/2024/wp-engine-cease-and-desist-exhibits.pdf) look pretty similar to many other WordPress hosts I've seen across the web.
 
