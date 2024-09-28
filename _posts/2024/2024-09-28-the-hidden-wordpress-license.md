@@ -16,7 +16,7 @@ The other side of Mullenweg's argument is that WP Engine isn't "giving back enou
 
 Let's say that Mullenweg is right, though, and WP Engine must do more for the WordPress community. OK, great: how much more? Should every company give a certain amount of time/money to WordPress or face Mullenweg's displeasure? Is Mullenweg the sole arbiter of the amount given?
 
-WordPress.org has a [Five for the Future program](https://wordpress.org/five-for-the-future/). It's a way for companies to give back to WordPress via employee time. In return, these companies are recognised and get a bit more of a say in the future of WordPress. But it's not a requirement for using WordPress for commercial purposes. If WP Engine pledged to join this program, would things be mended with Automattic? At this point I doubt it.
+WordPress.org has a [Five for the Future program](https://wordpress.org/five-for-the-future/). It's a way for companies to give back to WordPress via employee time. In return, these companies are recognised and get a bit more of a say in the future of WordPress. I think this is a great idea, but it's not a requirement for using WordPress for commercial purposes. If WP Engine pledged to join this program, would things be mended with Automattic? At this point I doubt it.
 
 This is the thought that kept rolling around my head since the situation started. The scorched earth policy by Mullenweg makes it clear that there's a hidden license that you agree to when you use WordPress commercially. For most, it will never come into effect, but if you're big like WP Engine [or Godaddy before them](https://masterwp.com/mullenweg-godaddy-is-an-existential-threat-to-wordpress/), it may be enacted.
 
