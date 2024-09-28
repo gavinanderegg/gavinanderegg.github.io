@@ -4,6 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="alternate" type="application/rss+xml" title="anderegg.ca" href="/feed.xml">
 <style>{% capture include_to_scssify %}{% include main.scss %}{% endcapture %}{{ include_to_scssify | scssify | normalize_whitespace | strip_newlines }}</style>
+{%- if page.noindex == true -%}<meta name="robots" content="noindex">{%- endif -%}
 </head>
 
 <body>
