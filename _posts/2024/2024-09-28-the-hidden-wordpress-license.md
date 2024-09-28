@@ -22,7 +22,7 @@ This is the thought that kept rolling around my head since the situation started
 
 I'm a huge fan of open source software, but when you provide software this way, you give up some control. Mullenweg seems to want it both ways. People should be able to use his software however they see fit, but he seems to also want them to "give back *or else*". This is his right, of course, but I'm not convinced anyone has a clear picture of what this means.
 
-There's another way to do things. [Craft CMS](https://craftcms.com/) is my favourite content management system. It's [source-available](https://github.com/craftcms) and free for some uses, but there's a [reasonable license fee](https://craftcms.com/pricing) for larger commercial projects. This agreement is much clearer to me. Maybe Mullenweg needs to come up with some different licensing terms that he's happy with? Otherwise, we're left guessing about how much "giving back" is required. Until that happens, I recommend against using WordPress commercially unless you're sure Matt Mullenweg never be upset with you.
+There's another way to do things. [Craft CMS](https://craftcms.com/) is my favourite content management system. It's [source-available](https://github.com/craftcms) and free for some uses, but there's a [reasonable license fee](https://craftcms.com/pricing) for larger commercial projects. This agreement is much clearer to me. Maybe Mullenweg needs to come up with some different licensing terms that he's happy with? Otherwise, we're left guessing about how much "giving back" is required. Until that happens, I recommend against using WordPress commercially unless you're sure Matt Mullenweg will never be upset with you.
 
 ---
 
