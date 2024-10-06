@@ -7,7 +7,7 @@ title: anderegg.ca
 				{% for post in site.posts limit:1 %}
 					<article>
 						<h2>{{ post.title }}</h2>
-						<h3 class="date">{{ post.date | date: "%B %d, %Y" }}</h3>
+						<h3 class="date">{{ post.date | date: "%B %e, %Y" }}</h3>
 						{{ post.content }}
 					</article>
 				{% endfor %}
