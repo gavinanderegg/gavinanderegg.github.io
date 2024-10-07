@@ -18,7 +18,7 @@ I wrote a bit about this [last time](https://anderegg.ca/2024/09/28/the-hidden-w
 
 At the end of September there was a Reddit post where [Mullenweg mused about bringing ACF into WordPress](https://www.reddit.com/r/Wordpress/comments/1frcor8/matt_brings_up_bringing_acf_pro_into_core/). It looks to be a screenshot of a Slack conversation, but it's hard to tell if this is legitimate.
 
-Yesterday there was a post on X where the Automattic account "responsibly disclosed" a vulnerability in ACF. The X post has since been deleted, but [here's a Mastodon thread that brought it to my attention](https://sakurajima.moe/@chikorita157/113256114788720233). The thread also includes a screenshot of the [WordPress account posting](https://x.com/WordPress/status/1842523807451316604) "You wouldn't have to do all this if you dropped your lawsuits, apologized, and didn't abuse trademarks." It's an uncharacteristic post from that account, and some (including myself) guess it was posted by Mullenweg.
+Yesterday there was a post on X where the Automattic account "responsibly disclosed" a vulnerability in ACF. The X post has since been deleted, but [a re-tooted Mastodon thread brought it to my attention](https://sakurajima.moe/@chikorita157/113256114788720233). The thread also includes a screenshot of the [WordPress account posting](https://x.com/WordPress/status/1842523807451316604) "You wouldn't have to do all this if you dropped your lawsuits, apologized, and didn't abuse trademarks." It's an uncharacteristic post from that account, and some (including myself) guess it was posted by Mullenweg.
 
 Mullenweg also [posted to X yesterday](https://x.com/photomatt/status/1842500184825090060) asking:
 
