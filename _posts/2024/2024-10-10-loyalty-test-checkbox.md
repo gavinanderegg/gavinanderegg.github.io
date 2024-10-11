@@ -18,7 +18,7 @@ Several in the WordPress community reached out on Slack to try and understand th
 
 People seemed to be asking questions in good faith, and Javier suggested maybe updating the checkbox to "I work for WP Engine" after some back-and-forth. Matt Mullenweg seemed to imply that the checkbox was vague on purpose, and others wondered if purchasing services from WP Engine or its other brands made them "affiliated". Mullenweg suggested they seek legal council.
 
-You'll also notice that Javier says he's banned from the WordPress Slack for asking these questions. [He's not alone](https://x.com/LinuxJedi/status/1843966957495939093). 404 Media has [a great article with more detail on the Slack conversation](https://www.404media.co/wordpress-checkbox-login-wp-engine/).
+You'll also notice that Javier says he's banned from the WordPress Slack for asking these questions. [He's not alone](https://wptavern.com/wordpress-org-login-gets-mandatory-affiliation-checkbox-following-wp-engine-dispute#:~:text=Several%20community%20members%20have%20reported%20being%20blocked%20from%20WordPress%20Slack). 404 Media has [a great article with more detail on the Slack conversation](https://www.404media.co/wordpress-checkbox-login-wp-engine/).
 
 The checkbox appears to be a loyalty test, more than anything. You have to check it if you want in to WordPress.org, and what it means is probably unclear by design. Between this and the bans, it looks like Mullenweg only wants true believers to contribute to WordPress. That seems like a terrible way to run a project.
 
