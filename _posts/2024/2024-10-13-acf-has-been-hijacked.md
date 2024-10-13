@@ -6,7 +6,7 @@ date: 2024-10-13 00:02:04 -0300
 
 It's super late at night on Thanksgiving weekend in Canada. I shouldn't be thinking about weird internet drama, but here we are.
 
-[Since I last wrote](https://anderegg.ca/2024/10/10/loyalty-test-checkbox) about the ongoing WordPress drama:
+[Since I last wrote](https://anderegg.ca/2024/10/10/loyalty-test-checkbox) about the ongoing WordPress situation:
 
 * Matt Mullenweg promoted a "fork" of WordPress that wasn't actually a fork.
 * He then hijacked one of the most prominent plugins in the WordPress development world.
