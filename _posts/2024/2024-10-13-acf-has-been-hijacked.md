@@ -23,6 +23,8 @@ But that's not the point. ACF is something that WordPress users trust and expect
 
 This is some Grade-A 100% bullshit.
 
+The ACF site has been [updated with a notice about the takeover](https://anderegg.s3.amazonaws.com/acf%20notice.png), but most users likely won't see this. The team behind the WordPress plugin team could now update ACF to make any changes they'd like. If they're willing to do this, I wouldn't trust any plugins hosted on WordPress.org.
+
 I really don't know what to say at this point. I assumed that ACF would be removed from the WordPress plugin directory, but I never would have guessed it would be hijacked. It seems like Mullenweg has lost the plot completely.
 
 If you use WordPress for a living, I recommend strongly that you consider changing platforms.
