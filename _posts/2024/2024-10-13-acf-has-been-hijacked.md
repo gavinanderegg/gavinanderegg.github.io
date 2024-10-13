@@ -11,7 +11,7 @@ It's super late at night on Thanksgiving weekend in Canada. I shouldn't be think
 * Matt Mullenweg promoted a "fork" of WordPress that wasn't actually a fork.
 * He then hijacked one of the most prominent plugins in the WordPress development world.
 
-The first point is pretty minor, but highlights the depths of strangeness at play. [Vinny Green](https://x.com/vinnysgreen) created [a project called FreeWP](https://freewp.com/) that… actually, I don't actually know what it's about. You need to read the site for yourself. It seems to be an announcement of and organization that includes a news site, a class action lawsuit, and [some other things](https://freewp.com/faq/). It's not really clear to me, and it seems like it might be an elaborate troll.
+The first point is pretty minor, but highlights the depths of strangeness at play. [Vinny Green](https://x.com/vinnysgreen) created [a project called FreeWP](https://freewp.com/) that… actually, I don't actually know what it's about. You need to read the site for yourself. It seems to be an announcement of an organization that includes a news site, a class action lawsuit, and [some other things](https://freewp.com/faq/). It's not really clear to me, and it seems like it might be an elaborate troll.
 
 This normally wouldn't be news, [except Matt Mullenweg made it so](https://wordpress.org/news/2024/10/spoon/). It's uncertain if Mullenweg even understood what Green was building, but Green was quick to point out that [it wasn't a fork of WordPress](https://x.com/vinnysgreen/status/1844488053060141233). Mullenweg then amended his post to include [AspirePress](https://aspirepress.org/about-us/), and noted a spelling error. The whole thing seems strange, but I'm assuming that Mullenweg wrote the blog post to make fun of potential WordPress forks.
 
@@ -23,7 +23,7 @@ But that's not the point. ACF is something that WordPress users trust and expect
 
 This is some Grade-A 100% bullshit.
 
-The ACF site has been [updated with a notice about the takeover](https://anderegg.s3.amazonaws.com/acf%20notice.png), but most users likely won't see this. The team behind the WordPress plugin team could now update ACF to make any changes they'd like. If they're willing to do this, I wouldn't trust any plugins hosted on WordPress.org.
+The ACF site has been [updated with a notice about the takeover](https://anderegg.s3.amazonaws.com/acf%20notice.png), but most users likely won't see this. The team behind the WordPress plugin directory could now update ACF to make any changes they'd like. If they're willing to do this, I wouldn't trust any plugins hosted on WordPress.org.
 
 I really don't know what to say at this point. I assumed that ACF would be removed from the WordPress plugin directory, but I never would have guessed it would be hijacked. It seems like Mullenweg has lost the plot completely.
 
