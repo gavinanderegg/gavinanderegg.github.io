@@ -1,0 +1,17 @@
+---
+title: >
+    Two years out from Twitter
+date: 2024-10-30 14:39:22 -0300
+---
+
+I missed the date on this, but it's been over two years since [Elon Musk walked into Twitter HQ with a sink](https://www.theverge.com/2022/10/26/23423708/elon-musk-twitter-acquisition-close-san-francisco). Today I looked back at some conversations I had at the time. There were a lot of *feelings*.
+
+Nilay Patel's *[Welcome to hell, Elon](https://www.theverge.com/2022/10/28/23428132/elon-musk-twitter-acquisition-problems-speech-moderation)* is also interesting to look back on. Patel got a lot of things right, but I think we all underestimated Musk's shamelessness. Hank Green recently put out [an excellent video](https://www.youtube.com/watch?v=3u8_fp1TtJE) examining 24 hours of Musk's posts. Yesterday, there was [a report from The Washington Post](https://www.washingtonpost.com/technology/2024/10/29/elon-musk-x-republican-democrat-twitter-election/) about left-leaning content being suppressed on the platform. What used to be Twitter is now Musk's personal propaganda channel.
+
+I officially gave up on Twitter on November 16, 2022. It was the day I set up a Mastodon account and set my Twitter account to private. I didn't post on Mastodon [until the next day](https://mastodon.social/@gavinanderegg/109359253312044626). At the time I remember thinking that I wanted to post on my own site more. I'm still not where I want to be, but writing on my own website is probably the best thing to come out of Musk's Twitter takeover. Over time the takeover also lead me to some great communities on Mastodon, Discord, and — more recently — Bluesky. There are still some folks spending their social time on X, but almost all my old Twitter friends have jumped ship somewhere else.
+
+The "somewhere else" bit is interesting to me, though. Twitter was **the place** for conversation on the internet for a while. Now people are spread across a bunch of channels. Mastodon is the place I consider "home", but there's a lot of new excitement around Bluesky. I kind of get that, [but I'm still somewhat down on Bluesky](https://anderegg.ca/2024/10/21/thoughts-on-the-recent-migration-from-x-to-bluesky). I was warming to it recently until the [Blockchain Capital investment announcement](https://bsky.social/about/blog/10-24-2024-series-a). I'm not alone in thinking this [won't end well for the service](https://cosocial.ca/@timbray/113364167980395779).
+
+I think the fracturing of the social landscape is overall a good thing. I'm happy people are excited about social media again. For the last several years of Twitter, using it made me feel terrible. Posting to my own site recently has helped me think things through **much** more than posting tweets ever did. I'm also sold on the idea of [POSSE](https://cosocial.ca/@timbray/113364167980395779) — posting in a place you control and then spreading the word elsewhere. Following this idea, the social channels become more of a comments section. I like how that feels.
+
+I recently needed to go through some old files, and found [a screenshot of my Twitter setup from 2011](https://anderegg.s3.amazonaws.com/img/Twitter%202011.png). It's completely alien by today's standards. I think this was Twitter at or near its peak. Here's hoping that everyone can find their own corner of the web that feels like that again.
