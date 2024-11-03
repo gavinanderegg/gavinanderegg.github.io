@@ -10,6 +10,7 @@ title: anderegg.ca
 						<h3 class="date">{{ post.date | date: "%B %e, %Y" }}</h3>
 						{{ post.excerpt }}
 						<p class="readmore"><a href="{{ post.url }}">Read more »</a></p>
+						<hr>
 					</article>
 				{% endfor %}
 				</div>
@@ -26,14 +27,27 @@ title: anderegg.ca
 						}
 
 						article {
-							padding-bottom: 3.8em;
-
 							&:last-of-type {
 								padding-bottom: 0;
+
+								hr {
+									display: none;
+								}
 							}
 
 							.readmore {
 								margin: 0;
+							}
+
+							hr {
+								box-sizing: border-box;
+								width: 80%;
+								height: 16px;
+								background: url(/img/pixels.png);
+								image-rendering: pixelated;
+								border-top: 8px solid rgba(0, 0, 0, 0.4);
+								border-left: 8px solid rgba(0, 0, 0, 0.4);
+								margin: 3.2em auto;
 							}
 						}
 					}
