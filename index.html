@@ -20,7 +20,17 @@ title: anderegg.ca
 				</div>
 
 				<style>
+					@media screen and (max-width: 680px) {
+						#content article > h2 {
+							padding-top: 0;
+						}
+					}
+
 					#frontPost {
+						@media screen and (max-width: 680px) {
+							padding-top: 32px;
+						}
+
 						h2 a {
 							color: #DDD;
 							text-decoration: none;
@@ -48,6 +58,13 @@ title: anderegg.ca
 								border-top: 8px solid rgba(0, 0, 0, 0.4);
 								border-left: 8px solid rgba(0, 0, 0, 0.4);
 								margin: 3.2em auto;
+
+								@media screen and (max-width: 680px) {
+									height: 8px;
+									border-top: 4px solid rgba(0, 0, 0, 0.4);
+									border-left: 4px solid rgba(0, 0, 0, 0.4);
+									margin: 2.8em auto;
+								}
 							}
 						}
 					}
