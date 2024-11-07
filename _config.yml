@@ -33,6 +33,11 @@ defaults:
       layout: "post"
   -
     scope:
+      path: "assets/**"
+    values:
+      sitemap: false
+  -
+    scope:
       path: "wc2017/**/*"
     values:
       sitemap: false
