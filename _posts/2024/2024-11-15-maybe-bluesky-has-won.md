@@ -36,7 +36,7 @@ I think some might be surprised to learn how open Bluesky is. It's trivially eas
 
 ### Financial concerns
 
-Bluesky is currently free to use, and I think they intend it to stay that way. This is easier when there are fewer users, and I'd bet that the technical choices discussed above make things more expensive to run. The CEO, [Jay Graber](https://en.wikipedia.org/wiki/Jay_Graber), seems like a smart person who's trying to do the right thing. However, she's also someone with a background in the crypto industry who [recently accepted funding lead by a crypto investor](https://bsky.social/about/blog/10-24-2024-series-a). What does that mean for the service? Who knows! But it doesn't sound great to me. Investors like to make returns. Bluesky is currently only making money by [reselling domains for usernames](https://bsky.social/about/blog/7-05-2023-namecheap). That's not exactly a high-margin business.
+Bluesky is currently free to use, and I think they intend it to stay that way. This is easier when there are fewer users, and I'd bet that the technical choices discussed above make things more expensive to run. The CEO, [Jay Graber](https://en.wikipedia.org/wiki/Jay_Graber), seems like a smart person who's trying to do the right thing. However, she's also someone with a background in the crypto industry who [recently accepted funding lead by a crypto investor](https://bsky.social/about/blog/10-24-2024-series-a). What does that mean for the service? Who knows! But it doesn't sound great to me. Investors like to make returns. Bluesky is currently only making money by [reselling domains for usernames](https://bsky.social/about/blog/7-05-2023-namecheap). I don't think that's going to foot the bill for all this.
 
 ### Small things
 
