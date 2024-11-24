@@ -16,7 +16,7 @@ Here it is from [a PDF of the filing](https://s3.documentcloud.org/documents/252
 
 > The mere fact that WP Engine made the risky decision to base its growing business on a site to which it has no rights or guarantee of access, without making backup plans, is not enough for it to conjure a claim out of legal thin air. Similarly, WP Engine’s business decision to rely on Matt’s Website does not provide any legal or factual basis for muzzling Matt and preventing him from criticizing WP Engine for acts that he believes are damaging the WordPress community.
 
-So, there's a lot here. First, I want to say that I don't believe that anyone has tried to "muzzle" Mullenweg. He's free to say his piece, and he's certainly been doing so! By my reading, the [injection from WP Engine](https://s3.documentcloud.org/documents/25237665/wp-engine-injunction.pdf) doesn't require that Mullenweg not speak out against WP Engine, it instead says (on page numbered 25 of the PDF, starting on line 18):
+So, there's a lot here. First, I want to say that I don't believe that anyone has tried to "muzzle" Mullenweg. He's free to say his piece, and he's certainly been doing so! By my reading, the [injunction from WP Engine](https://s3.documentcloud.org/documents/25237665/wp-engine-injunction.pdf) doesn't require that Mullenweg not speak out against WP Engine, it instead says (on page numbered 25 of the PDF, starting on line 18):
 
 > WPE respectfully requests that the Court issue a preliminary injunction restoring and preserving the status quo as it existed prior to Defendants’ wrongful actions described above. The preliminary injunction requires no security because returning the situation to the status quo will have no negative effect on Defendants.
 
