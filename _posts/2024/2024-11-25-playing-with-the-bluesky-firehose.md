@@ -10,7 +10,7 @@ I was inspired by [a post from Simon Willison](https://simonwillison.net/2024/No
 
 It looked simple, so I decided to build quick demo. There are already [tools like Firesky](https://firesky.tv/) for streaming the full firehose. Firesky has ways to filter the incoming data, but they're a bit hidden. I thought it might be nice to have something where filtering is core to the UI.
 
-[You can play with my Bluesky Filter app here](https://anderegg.ca/bsky-filter/).
+> [Click here to check out my Bluesky Filter app](https://anderegg.ca/bsky-filter/).
 
 To use it, first enter some text in the input field at the top and hit the "go" button. This will start a connection to Jetstream, and new firehose content will start streaming in. Any content where the text in the input field matches a part of the post content will be displayed. The "posts encountered" number shows the total number of posts coming in from Jetstream. Newer posts will show up on top, and older posts will be pushed down. You can use the "stop" button to close the connection, and the "clear" button to remove all the entries added so far. One potential use for this would be to follow a hashtag or a topic like "Apple". You can also click the post text to go to that post on Bluesky, or click the username to see that user's profile.
 
