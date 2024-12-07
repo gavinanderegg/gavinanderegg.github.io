@@ -21,7 +21,7 @@ The thread also included a link to a pull request titled "[[Subs] Draft](https:/
 > * Longer and higher quality videos
 > * Custom app icons
 
-The file also [lists some pricing details](https://github.com/bluesky-social/social-app/blob/subs/base/src/components/dialogs/SubscriptionsDialog.tsx#L97C1-L154C73). It seems to start at $6/month for the monthly plan, going up to $8/month after 12 months. There is also an annual plan starting at $60/year, renewing at $80/year.
+The file also [lists some pricing details](https://github.com/bluesky-social/social-app/blob/69f761dcc2d31cc2515dd835e7d422cbb401b797/src/components/dialogs/SubscriptionsDialog.tsx#L97C1-L154C73). It seems to start at $6/month for the monthly plan, going up to $8/month after 12 months. There is also an annual plan starting at $60/year, renewing at $80/year.
 
 This is a work in progress, so it's safest to assume these details may change. That said, something like this subscription is likely the best way for Bluesky to generate revenue. The Verge [recently launched their subscription plan](https://www.theverge.com/2024/12/3/24306571/verge-subscription-launch-fewer-ads-unlimited-access-full-text-rss), and on the [latest episode of The Vergecast](https://www.theverge.com/2024/12/6/24314746/agi-openai-sam-altman-cable-subscription-vergecast) the hosts say that they were very happy with the uptake. [^1] I suspect many Bluesky users would be happy to help ensure the service sticks around.
 
