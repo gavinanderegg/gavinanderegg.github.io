@@ -1,7 +1,7 @@
 ---
 title: >
     An update on Mastodon and referer headers
-date: 2024-12-25 12:30:08 -0400
+date: 2024-12-26 09:48:08 -0400
 ---
 
 Earlier this year, [I looked into why Mastodon didn't include referer headers](https://anderegg.ca/2024/05/19/whats-up-with-mastodon-and-referer-headers). As someone who enjoys following web analytics, it seemed a shame that Mastodon appeared never to send any traffic. I knew this wasn't the case, but that lack of traffic data certainly wasn't doing Mastodon any favours in terms of marketing.
