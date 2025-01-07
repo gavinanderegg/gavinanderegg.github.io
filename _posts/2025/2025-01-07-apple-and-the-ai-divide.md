@@ -26,4 +26,4 @@ Like I said above, I think that generative AI is useful and interesting. I'm als
 
 ---
 
-[^1]: For whatever it's worth, I square this circle personally because I believe that fair use of copyrighted material should be more permissive in general. The fact that large corporations can get away with copyright uses which most citizens can't is an issue with our current implementation of capitalism, and needs to be addressed from the ground up. Companies like OpenAI are playing the game by the current set of rules, and they provide huge efficiency gains in my line of work.
+[^1]: For whatever it's worth, I square this circle personally because I believe that fair use of copyrighted material should be more permissive in general. The fact that large corporations can get away with copyright uses which most citizens can't is an issue with our current implementation of capitalism, and needs to be addressed from the ground up. Companies like OpenAI are playing the game by the current set of rules, and they provide huge efficiency gains in my line of work. This isn't ideal, but it's where we are.
