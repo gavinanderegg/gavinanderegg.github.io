@@ -16,7 +16,7 @@ I once again don't have a new app for this category, but Bear has been my trusty
 ---
 
 ### Best Newcomer iOS and Mac App
-**‎[Croissant](https://apps.apple.com/us/app/croissant-cross-posting/id6670288979)**
+**[Croissant](https://apps.apple.com/us/app/croissant-cross-posting/id6670288979)**
 
 With all the social media craziness these days, it's nice to have a way to quickly post to multiple channels (a theme that continues further down the list). Croissant is a way to post to Bluesky, Mastodon, or Threads from your iOS device or Mac. The Mac/iPad versions were [only just released](https://bsky.app/profile/benricem.bsky.social/post/3lbwt6eamlk2t) before I submitted my picks. This is a great app that solves a real problem for me in this weird multi-social-media time.
 
