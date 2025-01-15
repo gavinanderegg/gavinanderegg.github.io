@@ -14,7 +14,7 @@ Yesterday also saw the launch of the [Free Our Feeds](https://freeourfeeds.com/)
 
 I've written before about my [hesitations around the protocol powering Bluesky](https://anderegg.ca/2024/11/15/maybe-bluesky-has-won), and I think that a competing "[AppView](https://atproto.com/guides/glossary#app-view)" would be welcome — but it's unclear if that's what Free Our Feeds is going for. They mention wanting to build a second "relay", though I don't know if they're talking about a [Relay](https://atproto.com/guides/glossary#relay) in the AT Protocol sense. Another canonical Relay would be a good start, but wouldn't counter any issues if [Bluesky started going off the rails](https://anderegg.ca/2024/11/23/how-decentralized-is-bluesky-really).
 
-I wish the Free Our Feeds people all the best, but I hope they provide a more detailed plan soon. Until then, I think I'll just [continue to donating to Mastodon's Patreon](https://www.patreon.com/c/mastodon/posts).
+I wish the Free Our Feeds people all the best, but I hope they provide a more detailed plan soon. Until then, I think I'll just [continue donating to Mastodon's Patreon](https://www.patreon.com/c/mastodon/posts).
 
 ---
 
