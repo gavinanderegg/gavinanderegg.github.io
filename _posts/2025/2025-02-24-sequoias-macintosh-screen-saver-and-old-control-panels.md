@@ -24,7 +24,7 @@ I was most fascinated when the screen saver scrolled over versions of the Contro
 
 [Low End Mac has a good overview](https://lowendmac.com/2005/innovative-macintosh-system-1-0/#:~:text=Next%20is%20the%20Control%20Panel) of what's going on here, but I feel like it's the sort of thing you could intuit if you played with it for a minute or two. One thing I learned while writing this is that you can click the menu bar in the desktop background preview to cycle through some presets!
 
-My only nitpicks about this screen are that it uses a strange [XOR'd](https://en.wikipedia.org/wiki/Exclusive_or) cross instead of the default mouse pointer. I'm assuming this was to make it easier to edit the desktop background, but it still feels like an odd choice. Also, the box with controls how many time the menu blinks is one pixel narrower than the two boxes below it. This would have driven me insane, and I'm amazed it [still looked this way in System 2.1](https://infinitemac.org/1985/System%202.1).
+My only nitpicks about this screen are that it uses a strange [XOR'd](https://en.wikipedia.org/wiki/Exclusive_or) cross instead of the default mouse pointer. I'm assuming this was to make it easier to edit the desktop background, but it still feels like an odd choice. Also, the box with controls how many time the menu blinks is one pixel narrower than the two boxes below it. This would have driven me insane, and I'm amazed [it still looked this way in System 2.1](https://infinitemac.org/1985/System%202.1).
 
 ![A weird 1 pixel offset on the top right control panel box.](https://anderegg.s3.amazonaws.com/Macintosh/Offset.png)
 
