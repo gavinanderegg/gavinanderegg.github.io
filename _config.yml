@@ -9,6 +9,12 @@ title: "anderegg.ca"
 description: "Something (slightly) less boring than nothing."
 timezone: "America/Halifax"
 logo: "/img/logo.png"
+markdown:    kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
 include: [".well-known"]
 docs:
 - title: Home
