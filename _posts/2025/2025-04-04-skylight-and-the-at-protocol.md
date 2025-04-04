@@ -20,7 +20,7 @@ I decided to sign up and test the service out, but this wasn't a smooth experien
 
 Even if/when you can sign up with a third-party PDS, this is just a data storage and authentication platform. You're still relying on Skylight and Bluesky's services to [shuttle the data around](https://docs.bsky.app/docs/advanced-guides/federation-architecture#relay) and [show it to you](https://docs.bsky.app/docs/advanced-guides/federation-architecture#app-views).
 
-I'm not trying to beat up on Skylight specifically. I want more apps to be built with open standards, and I think TikTok could use a replacement — especially given that [*something* is about to happen tomorrow](https://techcrunch.com/2025/03/31/trump-says-tiktok-deal-will-come-before-april-5-deadline/). I honestly with them luck! I just think the "decentralized" and "unbannable" copy on their website should currently be taken with a shaker or two of salt.
+I'm not trying to beat up on Skylight specifically. I want more apps to be built with open standards, and I think TikTok could use a replacement — especially given that [*something* is about to happen tomorrow](https://techcrunch.com/2025/03/31/trump-says-tiktok-deal-will-come-before-april-5-deadline/). I honestly wish them luck! I just think the "decentralized" and "unbannable" copy on their website should currently be taken with a shaker or two of salt.
 
 ---
 
