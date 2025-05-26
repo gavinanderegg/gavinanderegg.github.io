@@ -24,7 +24,7 @@ Shortly after this system was announced, [I started digging into it](https://bsk
 
 > [The source is also available on GitHub.](https://github.com/gavinanderegg/bsky-verifier)
 
-To use the tool, enter the account handle of a trusted verifier and click "go". The tool will grab the newest 100 verified accounts from that verifier. If there are more than that, you can click the "Load More" button at the bottom of the page to grab the next 100 until you have them all. If you query an account which isn't a trusted verifier, you'll see an error message.
+To use the tool, enter the account handle of a trusted verifier ("wired.com", for example) and click "go". The tool will grab the newest 100 verified accounts from that verifier. If there are more than that, you can click the "Load More" button at the bottom of the page to grab the next 100 until you have them all. If you query an account which isn't a trusted verifier, you'll see an error message.
 
 Because of how open Bluesky and the [AT Protocol](https://atproto.com/) are, this all happens in the browser without the need for any servers or authentication. Here's how it works under the covers.
 
