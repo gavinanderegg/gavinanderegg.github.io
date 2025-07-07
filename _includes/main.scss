@@ -22,6 +22,14 @@ body {
 	a:hover {
 		color: #FC9;
 	}
+
+	.footnote::before {
+		content: "‹";
+	}
+
+	.footnote::after {
+		content: "›";
+	}
 }
 
 #top {

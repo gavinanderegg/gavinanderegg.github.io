@@ -24,8 +24,10 @@ Oh well.
 
 Anyway, the upshot of all of this was some typographical envy. I spent a bit of time this morning wondering if I should try out another font on this blog. This is something that happens every few years, but I never act on. The same was true this time. After being intrigued by [Libre Baskerville](https://open-foundry.com/fonts/libre_baskerville_regular), [EB Garamond](https://open-foundry.com/fonts/eb_garamond_regular), and [IBM Plex Serif](https://fonts.google.com/specimen/IBM+Plex+Serif) for a bit, I stopped myself. Any one of them would have [tripled the download size of any page on this website](https://www.websitecarbon.com/website/anderegg-ca/).
 
-Instead, I spent a bit of time fiddling with my site's layout. I've increased the body size slightly, and fiddled with how I render links, [^1] but I stuck with my old favourite default web typeface, [Georgia](https://en.wikipedia.org/wiki/Georgia_%28typeface%29). Happily, it is available for license to more than 100 people ever.
+Instead, I spent a bit of time fiddling with my site's layout. I've increased the body size slightly, and fiddled with how I render links, [^1] but I stuck with my old favourite default web typeface, [Georgia](https://en.wikipedia.org/wiki/Georgia_%28typeface%29). [^2] Happily, it is available for license to more than 100 people ever.
 
 ---
 
 [^1]: One critique of this site's design has been that the links were a bit eye-searing. My [Nope to Sidebar post](https://anderegg.ca/2024/05/28/nope-to-sidebar) contains links to some previous design tweak screenshots. Hopefully this new link style works better for others, because I'm quite happy with it.
+
+[^2]: According to [a source in that Wikipedia article](https://web.archive.org/web/20150424000832/http://web.nickshanks.com/typography/font-descriptions), the name of the typeface was inspired by the tabloid headline, "Alien heads found in Georgia". I had no idea!
