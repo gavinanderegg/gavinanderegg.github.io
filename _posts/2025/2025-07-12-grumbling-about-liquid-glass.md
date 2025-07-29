@@ -10,13 +10,13 @@ But then [several people](https://bsky.app/profile/rossfloate.bsky.social/post/3
 
 To me, the design looks best on iOS and iPadOS, but even there I have several gripes. I'm not a fan of how more [UI elements float over content now](https://pdx.social/@louie/114760076589198466), or how text gets blurred near element edges. This design was sold as "free[ing] up valuable space for your content", [^1] but I feel like there's now overall less space where my content is in focus. This design also continues Apple's obsession with hiding functionality in "UI junk drawers". This makes the UI look better in a keynote, but [it makes using your device more of a chore](https://mastodon.macstories.net/@viticci/114829148037318202).
 
-Fast forward a few weeks, and we now have iOS beta 3, which [significantly dials back the transparency and refractive effects](https://www.macrumors.com/guide/ios-26-beta-3-liquid-glass-changes/). It strips out a good deal of what initially excited me about the design, but leaves behind the same junk floating over my content. As pretty as the glass UI looked to me in the keynote, it turns out that it doesn't make sense in the real world. I'm kind of surprised it made it out the door, and now it seems like we're not going to get the design that Apple excitedly pitched.
+Fast forward a few weeks, and we now have iOS beta 3, which [significantly dials back the transparency and refractive effects](https://www.macrumors.com/guide/ios-26-beta-3-liquid-glass-changes/). It strips out a good deal of what initially excited me about the design, but leaves behind the same junk floating over my content. As pretty as the glass UI looked to me in the keynote, it turns out that it doesn't make sense many cases. I'm kind of surprised it made it out the door in its previous state, and now I worry that we're not going to get the design that Apple excitedly pitched.
 
 [There was a great discussion about the beta 3 changes on this week's Connected](https://www.relay.fm/connected/560) (starting at the 47:20 mark). A major theme of the conversation went like this: obviously the design should be tweaked to make things more usable and accessible, but how could Apple's design team not have accounted for these issues? The UI being transparent is a pretty fundamental part of "Liquid Glass", don't you think?
 
 Of course fixes and tweaks are what the beta period is for. It also makes sense that there will be issues during platform-wide redesign. Design isn't just making pretty images for a keynote, it has to work. But if the design needed to be dialled back this far, what was the point?
 
-Like with Apple Intelligence last year, [^2] I worry that year's keynote might have sold us something that we're not going to get. And if we don't get it, it's because it never made sense. This seems like a pretty big mark against Apple's design leadership.
+Like with Apple Intelligence last year, [^2] I worry that year's keynote might have sold us something that we're not going to get. And if we don't get it, it's because it never made sense. This seems like it would be a pretty big mark against Apple's design leadership.
 
 ---
 
