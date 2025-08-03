@@ -6,7 +6,7 @@ title = input('Post title: ')
 
 filename = title.strip().lower()
 filename = re.sub(r'[^a-zA-Z0-9\s]', '', filename)
-filename = re.sub('\s+', '-', filename)
+filename = re.sub(r'\s+', '-', filename)
 filename = str(datetime.date.today()) + '-' + filename + '.md'
 
 header = '---\n'
