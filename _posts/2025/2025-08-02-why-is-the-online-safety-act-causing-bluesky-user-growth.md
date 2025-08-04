@@ -18,7 +18,7 @@ There's one thing Bluesky has going for it that's different about all of its com
 
 Is this why people are flocking to Bluesky recently? No idea. I'm pretty certain most people don't know this is the case. But if there's a group of people who'd be motivated to figure it out, one might do well to bet on those with surging hormones and a lot of time on their hands.
 
-Also, I have absolutely no idea how this openness interacts with the law. There are some people running their own PDS instances, but the vast majority of content on the service is hosted by servers managed by the Bluesky team. Is it enough that the main Bluesky AppView blocks this content without age verification? Who knows! I'm not trying to narc on Bluesky here. It's just an interesting wrinkle caused by the open protocol. Ultimately, I think this is [yet another issue with a very stupid law](https://www.theverge.com/analysis/714587/uk-online-safety-act-age-verification-reactions).
+Also, I have absolutely no idea how this openness interacts with the law. There are some people running their own PDS instances, but the vast majority of content on the service is hosted by servers managed by the Bluesky team. This means that a lot of adult content is hosted and controlled by Bluesky, available on the open web, and can't be age limited due to the underlying protocol. Is it enough that the main Bluesky AppView blocks this content without age verification? Who knows! I'm not trying to narc on Bluesky here. It's just an interesting wrinkle caused by the open system powering the service. Ultimately, I think this is [yet another issue with a very stupid law](https://www.theverge.com/analysis/714587/uk-online-safety-act-age-verification-reactions).
 
 ---
 
