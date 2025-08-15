@@ -1,0 +1,17 @@
+---
+title: >
+    Weird SEGA facts
+date: 2025-08-15 15:22:27 -0300
+---
+
+I fell down a weird Wikipedia rabbit hole this morning. It was kicked off by a [Bluesky post from Jeff Gerstmann](https://bsky.app/profile/jeffgerstmann.com/post/3lwg3ncv3pk2m), and it taught me two weird things about Sonic the Hedgehog.
+
+Gerstmann's post shows off [MTV's Beavis and Butt-Head](https://www.mobygames.com/game/57797/mtvs-beavis-and-butt-head/) for the [Game Gear](https://en.wikipedia.org/wiki/Game_Gear). I'd never seen it before and doesn't look like any fun at all, really. That said, I was surprised by the colour depth. I knew the Game Gear was based on the [Master System](https://en.wikipedia.org/wiki/Master_System), but while both consoles could display 32 colours on screen at once, it turns out that the Game Gear had a total addressable palette of [4,096 colours](https://en.wikipedia.org/wiki/List_of_video_game_console_palettes#Game_Gear) over the [Master System's 64](https://en.wikipedia.org/wiki/List_of_video_game_console_palettes#Master_System).
+
+I also knew that SEGA's System 1 and System 2 arcade boards shared some technical similarities with the Master System, along with several games. I was reminded of this most recently in [a video by Jeremy Parish](https://www.youtube.com/watch?v=CZOK8zxmahY) which recounts the history of SEGA's pre-Genesis arcade efforts. I looked into the System 1 and 2 boards a bit, but the Wikipedia page outlining [all of SEGA's arcade hardware](https://en.wikipedia.org/wiki/List_of_Sega_arcade_system_boards) was slightly more interesting to me.
+
+While reading through this, I dug into several of the linked games for each generation of hardware. The [System 32 board](https://en.wikipedia.org/wiki/List_of_Sega_arcade_system_boards#:~:text=System%2032) had two games that surprised me. First was [Rad Mobile](https://en.wikipedia.org/wiki/Rad_Mobile), which turns out to be the first appearance of Sonic the Hedgehog. Sonic appears in Rad Mobile as a [small toy dangling from the rear-view mirror](https://en.wikipedia.org/wiki/Rad_Mobile#Gameplay_and_development), and the game launched more than half a year before [the first proper Sonic game](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_%281991_video_game%29) on the Genesis.
+
+The second was something I'd seen mentioned before, but didn't know much about: [SegaSonic the Hedgehog](https://en.wikipedia.org/wiki/SegaSonic_the_Hedgehog). I had assumed this game launched before Sonic had blown up in mainstream culture, hence the weird "SegaSonic" name. Nope! This was released a couple of years after the first Genesis title. Instead, it was apparently [a trademark blunder caused by SEGA's American arm](https://en.wikipedia.org/wiki/SegaSonic_the_Hedgehog#:~:text=Sega%20lost%20the%20trademark%20to%20the%20Sonic%20name%20during%20production) that necessitated the odd name. Oops.
+
+I grew up as a Nintendo kid, so maybe these points aren't as interesting to others. Still, I thought I'd share. If you're interested in more SEGA facts, you might want to check out [videogamedunkey's deep and insightful dive into Sonic R](https://www.youtube.com/watch?v=rCH2yB0sIsA). Let's just say that the soundtrack to that game is a main topic of investigation.
