@@ -4,7 +4,7 @@ title: >
 date: 2025-08-25 21:06:00 -0300
 ---
 
-**UPDATE:** I heard back from Bryan Newbold, protocol engineer at Bluesky, about this. [It seems this is an issue with the AppView layer of the protocol when it comes to large threads](https://bsky.app/profile/bnewbold.net/post/3lxbcnv2hjc2b). There's a new API in the works that's set to help out with this problem. I'm glad to hear it wasn't just me missing something obvious!
+**UPDATE:** I heard back from Bryan Newbold, protocol engineer at Bluesky, about this. [It seems this is an issue with the AppView layer of the protocol when it comes to large threads](https://bsky.app/profile/bnewbold.net/post/3lxbcnv2hjc2b). There's a new API in the works that's set to help out with this problem. I'm glad to hear it wasn't just me missing something obvious! The original post follows below.
 
 ---
 
