@@ -8,7 +8,7 @@ date: 2025-08-25 21:06:00 -0300
 
 ---
 
-I feel slightly embarrassed posting about this, but it's really bothering me. I'm writing now about some posts that seem to have been ignored by Bluesky.
+I feel slightly embarrassed posting about this, but it's really bothering me. Here's a story about some Bluesky posts which seemingly went missing.
 
 This weekend, Chris Plante asked a question: "[What was the first video game that scared you?](https://bsky.app/profile/plante.bsky.social/post/3lx37gbfbgs23)"
 
