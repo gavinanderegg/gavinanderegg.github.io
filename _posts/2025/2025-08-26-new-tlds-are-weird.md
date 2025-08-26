@@ -4,7 +4,7 @@ title: >
 date: 2025-08-26 11:53:21 -0300
 ---
 
-When I bought my first domain, there were only a handful of choices for top-level domains (TLDs). Today [I came across a blog hosted on an `.ooo` domain name](https://becca.ooo/blog/macos-dotfiles/). I haven't thought about what options were available in a while, and had some questions about this one in particular.
+When I bought my first domain, there were only a handful of choices for top level domains (TLDs). Today [I came across a blog hosted on a domain ending in `.ooo`](https://becca.ooo/blog/macos-dotfiles/). I haven't thought about what TLD options were available in a while, and had some questions about this one in particular.
 
 First, I wondered when the `.ooo` TLD was created. I went to Wikipedia, only to find that it's not listed on the ["List of Internet top-level domains" entry](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains), but instead in the ["List of English-language generic Internet top-level domains" entry](https://en.wikipedia.org/wiki/List_of_English-language_generic_Internet_top-level_domains). I tried looking around for a Wikipedia page that referenced the `.zone` TLD (which is [one I am partial to](http://gavin.zone)), but I wasn't able to find it. While looking, I did see that [`spooky.ooo` is registered](https://www.whois.com/whois/spooky.ooo), but sadly doesn't host anything at the moment.
 
