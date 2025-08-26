@@ -14,7 +14,7 @@ I also wondered why it was created. The Root Zone Database entry mentioned [Infi
 
 > "Our goal is nothing less than providing a billion stores for a billion people. With the `.ooo` [gTLD](https://en.wikipedia.org/wiki/Generic_top-level_domain) we intend to expand, on a global scale, the valued service we already provide to brick-and-mortar retailers, specifically delivering a dedicated online platform to market their goods and services."
 
-It goes on for much longer than that, but nothing in the description gives me any idea why `.ooo` would help anyone with shopping. The wiki page did link to [this ICANN resource](https://gtldresult.icann.org/applicationstatus/viewstatus) that you can use to [find the original application](https://gtldresult.icann.org/applicationstatus/applicationdetails/152). [^2] The application linked here is significantly longer than the excerpt from the wiki, but I still have no clue how adding three '*o*'s to the end of a URL is shopping-related. Oh well. At the very least, this was a fun diversion into the land of rare TLDs.
+It goes on for much longer than that, but nothing in the description gives me any idea why `.ooo` would help anyone with shopping. The wiki page did link to [this ICANN resource](https://gtldresult.icann.org/applicationstatus/viewstatus) that you can use to [find the original application](https://gtldresult.icann.org/applicationstatus/applicationdetails/152). [^2] The application linked here is significantly longer than the excerpt from the wiki, but I still didn't find anything to explain how three '*o*'s at the end of a URL relates to shopping. Oh well. At the very least, this was a fun diversion into the land of rare TLDs.
 
 ---
 
