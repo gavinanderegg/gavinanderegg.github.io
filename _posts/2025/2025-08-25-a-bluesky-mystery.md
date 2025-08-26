@@ -4,6 +4,10 @@ title: >
 date: 2025-08-25 21:06:00 -0300
 ---
 
+**UPDATE:** I heard back from Bryan Newbold, protocol engineer at Bluesky, about this. [It seems this is an issue with the AppView layer of the protocol when it comes to large threads](https://bsky.app/profile/bnewbold.net/post/3lxbcnv2hjc2b). There's a new API in the works that's set to help out with this problem. I'm glad to hear it wasn't just me missing something obvious!
+
+---
+
 I feel slightly embarrassed posting about this, but it's really bothering me. I'm writing now about some posts that seem to have been ignored by Bluesky.
 
 This weekend, Chris Plante asked a question: "[What was the first video game that scared you?](https://bsky.app/profile/plante.bsky.social/post/3lx37gbfbgs23)"
