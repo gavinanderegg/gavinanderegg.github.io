@@ -8,7 +8,7 @@ I really love [Jet Lag: The Game](https://nebula.tv/jetlag/). Part of my Nebula 
 
 Ben had devised a set of mini-games for Sam and Adam to play. I don't want to spoil anything, but Ben went slightly off the rails. Sam and Adam seemed almost ready to quit at a few points. Honestly, this made things even more entertaining.
 
-The highlight for me was the [WikiArena](https://store.steampowered.com/app/2090700/WikiArena/) section. I hadn't heard of this before, but the idea is extremely compelling. Two Wikipedia pages face off. As a player, you have to choose which one is the longest and which one has the most views. Sometimes, the choice is simple. Other times, it's pretty surprising.
+The highlight for me was the [WikiArena](https://store.steampowered.com/app/2090700/WikiArena/) section. I hadn't heard of this before, but the idea is extremely compelling. Two Wikipedia pages face off. As a player, you have to choose which one is the longest and which one has the most views. Sometimes, the choices are simple. Other times, it can be pretty surprising!
 
 One of the questions in this episode was [Turtle Chips](https://en.wikipedia.org/wiki/Turtle_Chips) vs. [Tadpole person](https://en.wikipedia.org/wiki/Tadpole_person). I hadn't heard of the tadpole person idea before, but I was well prepared for Turtle Chips. I saw them first in [Season 14, episode 4 at 8:28](https://youtu.be/2AriH2BNp4E?si=tIetCGYjdBH75G3t&t=508). [^1] [^2] Later, I randomly ran across that same flavour in [a local Asian grocer](https://ejoyfoodmart.com/). [^3] They're quite strange at first, but I really liked the sweet/savoury combo. I've since gone back for more.
 
