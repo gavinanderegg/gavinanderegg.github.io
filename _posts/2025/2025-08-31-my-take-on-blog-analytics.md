@@ -10,7 +10,7 @@ I deal with a lot of data for clients. One of my first pieces of advice in these
 
 The problem is, the entity collecting the data is responsible when that data leaks. If the data being collected wasn't core to a business objective, then [you're going to look like a buffoon](https://www.halifaxexaminer.ca/economy/utilities/nova-scotia-power-still-silent-on-why-it-stored-customers-social-insurance-numbers/). Also, even if each data point isn't sensitive by itself, [it's possible for those points to become sensitive in the aggregate](https://www.pnas.org/doi/full/10.1073/pnas.2300976120).
 
-All of this to say: I agree in principle with Paternoster here. If you're writing a blog, there's a good chance that it's something you're doing for yourself as a hobby. You probably *don't* need analytics, especially if you're just adding them because "*it's the done thing*".
+All of this to say: I agree in principle with Paternoster here. If you're writing a blog, there's a good chance that it's something you're doing for yourself as a hobby. You probably *don't* need analytics, especially if you're just adding them because "it's the done thing".
 
 So why do *I* include analytics on this site? For two main reasons. I'm very motivated by having numbers go up. I'm also curious, and want to know when/why one of my posts gets traction.
 
