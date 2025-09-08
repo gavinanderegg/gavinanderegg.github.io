@@ -14,7 +14,7 @@ Today I saw [a video by the RedLetterMedia folks on this topic](https://www.yout
 
 I pay for YouTube Premium. For my money, it's the best bang-for-the-buck subscription service on the market. I also think that YouTube is a monopoly. There are some alternatives — [I also pay for Nebula, for example](https://nebula.tv/) — but they're tiny in comparison. YouTube is effectively *the* place to watch video on the internet.
 
-It's also a place where a lot of people are trying to make a living. Now those creators are seeing a key metric decline drastically, and in a way that might affect their bottom line. I tried looking, and couldn't find any official word about this change. Heck, it might be a bug or some unknown effect that's only hitting a small portion of the service! Creators are forced to read tea leaves as weird things happen to their traffic.
+It's also a place where a lot of people are trying to make a living. Now those creators are seeing a key metric decline drastically, and in a way that might affect their bottom line. I tried looking, and couldn't find any official word about this change. Heck, it might be a bug or some unknown effect that's only hitting a small portion of the service! Creators are forced to share notes and read tea leaves as weird things happen to their traffic. I can only guess how demoralizing that must feel.
 
 I don't know what the answer is here. I wish there was a real alternative, but I can't see that happening soon. I'll continue to support smaller services like Nebula, but I think most people won't pay for a service when YouTube is free with ads. I also think it would take some doing to get advertisers to jump on a new platform when YouTube has almost all the viewers.
 
