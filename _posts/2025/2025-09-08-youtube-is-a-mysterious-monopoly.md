@@ -18,4 +18,8 @@ It's also a place where a lot of people are trying to make a living. Now those c
 
 I don't know what the answer is here. I wish there was a real alternative, but I can't see that happening soon. I'll continue to support smaller services like Nebula, but I think most people won't pay for a service when YouTube is free with ads. I also think it would take some doing to get advertisers to jump on a new platform when YouTube has almost all the viewers.
 
-I think this space is ripe for disruption, but there are only a handful of companies who could make a go of it… and I think they'd lose a lot of money for a long time while they tried. That really sucks.
+I think this is a space in real need of competition. [^1] Just because it's good now doesn't mean it will always be. However, there are only a handful of companies who could make a go of it… and I think they'd lose a lot of money for a long time while they tried. That really sucks.
+
+---
+
+[^1]: I originally had here "I think this space is ripe for disruption", but that was a poor choice of words [as pointed out on this Hacker News thread](https://news.ycombinator.com/item?id=45178223).
