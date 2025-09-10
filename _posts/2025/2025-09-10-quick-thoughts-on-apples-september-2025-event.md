@@ -4,9 +4,9 @@ title: >
 date: 2025-09-10 12:52:51 -0300
 ---
 
-Before too much time passes, I wanted to jot down some quick thoughts about the event yesterday.
+Before too much time passes, I wanted to jot down some quick thoughts about Apple's iPhone event yesterday.
 
-The event opened with a quote from Steve Jobs: "*Design is not just what it looks and feels like. Design is how it works.*" It's a small thing, but I found this opening annoying.
+Things opened with a quote from Steve Jobs: "*Design is not just what it looks and feels like. Design is how it works.*" It's a small thing, but I found this opening annoying.
 
 The video that followed the quote showed off pieces of Apple's hardware and software design that matched up well. It showed many cases where shapes were reused and minor details rhymed. At any other point in Apple's history, this wouldn't bother me. The video was well done, and I do value this attention to detail from Apple. However, the video only showed off designs and shapes. The "how it looks" part.
 
