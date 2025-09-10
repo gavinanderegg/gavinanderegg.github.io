@@ -12,7 +12,9 @@ The video that followed the quote showed off pieces of Apple's hardware and soft
 
 Maybe it's a coincidence that this intro was used before the release of the new Liquid Glass redesign. I'd bet that it was on purpose. [As I've written before](https://anderegg.ca/2025/07/12/grumbling-about-liquid-glass), I think that the redesign looks great when it's at its best. My issue with the design is that it often [makes things harder to read](https://mastodon.social/@BenRiceM/115151814336000940), [hides functionality behind additional taps/clicks](https://mastodon.social/@paladintom/114831566504276087), [muddles decades of UI standards](https://mastodon.social/@marioguzman/115125080951472514), and just [does weird things](https://mastodon.social/@chbeer/115146363054220735). This is all "how it works", and I think Apple is currently doing a bad job of that on the software side. Some of these things are minor oversights, but many are more fundamental. They all show a lack of attention to detail.
 
-Anyway, short rant aside, I enjoyed the event after this intro. Here are some main points that caught my attention:
+**Update**: I was happy to hear this issue brought up on [the latest episode of the Accidental Tech Podcast](https://atp.fm/656) (starting at 6:00 in). They shared the same concerns and annoyance, which makes me feel slightly less crazy about this.
+
+Anyway, short rant aside, I enjoyed the event after this intro. Here are some main points that caught my attention.
 
 The new [AirPods Pro 3](https://www.apple.com/airpods-pro/) look amazing, and I will definitely be getting some of these to replace my day one AirPods Pro 2. The translation feature seems really useful, though I'm looking forward to hearing how this works in the real world. Better noise cancellation and longer battery life are both very welcome, as is the improved water/dust resistance. I'm very curious how the new ear fit design will work, as I currently find the AirPods Pro 2 to be quite comfortable.
 
