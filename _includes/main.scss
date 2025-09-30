@@ -180,6 +180,12 @@ body {
 		margin: 32px 0 32px 32px;
 	}
 
+	.caption {
+		display: block;
+		text-align: center;
+		font-size: 80%;
+	}
+
 	code:not([attribute]) {
 		font-size: 90%;
 		line-height: inherit;
