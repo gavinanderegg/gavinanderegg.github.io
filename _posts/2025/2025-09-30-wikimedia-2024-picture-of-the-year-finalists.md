@@ -4,7 +4,7 @@ title: >
 date: 2025-09-30 11:02:03 -0300
 ---
 
-Wikimedia's [2024 Picture of the Year](https://commons.wikimedia.org/wiki/Commons:Picture_of_the_Year/2024/Gallery/Finalists) finalists have been posted, and voting is now open (if you're an active Wikimedia contributor). As ever, this is a beautiful collection images and photographs. [^1]
+Wikimedia's [2024 Picture of the Year](https://commons.wikimedia.org/wiki/Commons:Picture_of_the_Year/2024/Gallery/Finalists) finalists have been posted, and voting is now open (if you're an active Wikimedia contributor). As ever, this is a beautiful collection images and photographs.
 
 Here are a few of my favourites:
 
@@ -27,4 +27,4 @@ You can also [review winners and other finalists from previous years](https://co
 
 ---
 
-[^1]: Some of the images, like [this photo of Einstein](https://commons.wikimedia.org/wiki/File:Albert_Einstein_sticks_his_tongue.jpg) or [this painting of Beethoven](https://commons.wikimedia.org/wiki/File:Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg) are newer captures of previous works. I also couldn't find the specific image eligibility requirements, but some of the images seem to have been uploaded before 2024. I reached out to a member of the committee to ask about this, and will update if I hear back.
+Small aside: some of the images, like [this photo of Einstein](https://commons.wikimedia.org/wiki/File:Albert_Einstein_sticks_his_tongue.jpg) or [this painting of Beethoven](https://commons.wikimedia.org/wiki/File:Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg) are newer captures of previous works. I also couldn't find the specific image eligibility requirements, but some of the images seem to have been uploaded before 2024. I reached out to a member of the committee to ask about this, and will update if I hear back.
