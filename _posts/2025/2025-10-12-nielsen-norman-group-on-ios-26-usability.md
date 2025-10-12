@@ -12,4 +12,4 @@ On Friday, Raluca Budiu posted "[Liquid Glass Is Cracked, and Usability Suffers 
 >
 > Apple may call it Liquid Glass. To many users, it feels more like a fogged‑up window: pretty from a distance, but frustrating when you try to see beyond it.
 
-[As I've written before](https://anderegg.ca/2025/07/12/grumbling-about-liquid-glass), I really like the *idea* of Liquid Glass. The translucent effects are very pretty in Apple's screenshots and promo videos. There are some pops of fun visuals in the design, but I find them vastly outweighed by irritating touches that seem poorly thought through.
+[As I've written before](https://anderegg.ca/2025/07/12/grumbling-about-liquid-glass), I really like the *idea* of Liquid Glass. The translucent effects are very pretty in Apple's screenshots and promo videos. There are some pops of fun visuals in the design, but I find them vastly outweighed by baffling usability downgrades.
