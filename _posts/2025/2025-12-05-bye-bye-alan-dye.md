@@ -8,7 +8,7 @@ I was trying to get something down about Alan Dye leaving Apple, but [John Grube
 
 I've [grumbled](https://anderegg.ca/2025/09/10/quick-thoughts-on-apples-september-2025-event) [several](https://anderegg.ca/2025/07/23/update-on-liquid-glass-grumbles) [times](https://anderegg.ca/2025/07/12/grumbling-about-liquid-glass) in the past about the new Liquid Glass redesign, but it's just the latest push in a direction I've been unhappy with for years. Like Gruber, my biggest gripes have been with macOS. The sharp edges have [literally been filed off](https://bsky.app/profile/basicappleguy.com/post/3lw2lvk2jc22w). The UI keeps being "decluttered" of useful UI, which is hidden behind mouse-overs or "⋯" menus. Things are being given more "room to breathe", even in situations where information density is helpful. And now, with Tahoe, everything's covered in [distracting glass and blur effects](https://mastodon.social/@marioguzman/115427237324985222).
 
-All of this happened under Dye's leadership, and now Dye is being replaced by Stephen Lemay. Lemay has been at Apple since 1999, but hasn't been in the spotlight until now. I found Gruber's take on the choice to elevate Lemay to be interesting:
+All of this happened under Dye's leadership, and now Dye is being replaced by Stephen Lemay. Lemay has been at Apple since 1999, but hasn't been in the spotlight until now. In his piece, Gruber raised some good questions about this choice.
 
 > What I struggled with in the wake of today’s news is how to square the following contradiction:
 >
