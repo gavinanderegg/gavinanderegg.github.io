@@ -6,9 +6,9 @@ date: 2026-01-20 16:27:38 -0400
 
 When Apple released its new operating systems last year, I wasn't in a hurry to upgrade. I had initially come away from WWDC 2025 excited about the new Liquid Glass design language, [but then became grumpy](https://anderegg.ca/2025/07/12/grumbling-about-liquid-glass). The visual effects looked nice to me, but they functioned more poorly than I'd hoped. Well, [I've finally updated all my devices](https://bsky.app/profile/gavin.anderegg.ca/post/3mca6hbjwuk2g) and I have some feelings.
 
-My upgrade cycle kicked off with a new iPhone 17 Pro around Black Friday. I am exceedingly happy with the hardware. Less so the OS. Here's the thing: iOS 26 is mostly fine. My major issues are with the redesign, and I think they can all be fixed with refinement. This is definitely the platform I have the least problems with.
+My upgrade cycle kicked off with a new iPhone 17 Pro. I am exceedingly happy with the hardware. Less so the OS. Here's the thing: iOS 26 is mostly fine. My major issues are with the redesign, and I think they can all be fixed with refinement. This is definitely the platform I have the least problems with.
 
-My new phone came with iOS 26.1, which introduced a new ["Tinted" version of Liquid Glass](https://www.macrumors.com/guide/ios-26-1-features/). I tried living with the defaults, but was much happier after applying the tinted look. The default "Clear" option makes things annoyingly illegible too often. The tinted version almost entirely solves this for me. Also, I think tinted looks significantly better than clear, especially in dark mode. The glassy effects are still there, but they're more subtle and less irksome.
+I waited a bit to get the phone, so it came with iOS 26.1. This introduced a new ["Tinted" version of Liquid Glass](https://www.macrumors.com/guide/ios-26-1-features/). I tried living with the defaults, but was much happier after applying the tinted look. The default "Clear" option makes things annoyingly illegible too often. The tinted version almost entirely solves this for me. Also, I think tinted looks significantly better than clear, especially in dark mode. The glassy effects are still there, but they're more subtle and less irksome.
 
 That aside, here are some of the other issues I have with iOS 26:
 
