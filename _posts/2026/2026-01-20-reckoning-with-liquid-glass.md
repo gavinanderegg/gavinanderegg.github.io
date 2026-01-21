@@ -47,7 +47,7 @@ It's [heavily implied in that keynote video](https://www.youtube.com/watch?v=H3K
 
 That's right, the window corners on Tahoe and iPadOS have a much smaller radius than the iPhone's. [^3] I checked this on my Studio Display (running at native resolution) and on my iPad Pro.
 
-Anyway, look: I get that the reason for a UI change can be "because it was time for a change". My hope is that the Liquid Glass UI will be refined over time and that these issues will addressed. I know a lot of well-meaning people worked hard on this stuff, but my guess is that there were [many bad calls made at the top](https://anderegg.ca/2025/12/05/bye-bye-alan-dye). [^4] I also don't think this design is unusably bad, [^5] and it's definitely not unfixable… but I do think there's [a long way to go](https://bsky.app/search?q=%22liquid+glass%22).
+Anyway, look: I get that the reason for a UI change can be "because it was time for a change". My hope is that the Liquid Glass UI will be refined over time and that these issues will addressed. I know a lot of well-meaning people worked hard on this stuff, but my guess is that there were [many bad calls made at the top](https://anderegg.ca/2025/12/05/bye-bye-alan-dye). [^4] macOS Tahoe is far and away the worst implementation of this design, but it's not unusably bad. [^5] It's definitely not unfixable… but I do think there's [a long way to go](https://bsky.app/search?q=%22liquid+glass%22).
 
 ---
 
