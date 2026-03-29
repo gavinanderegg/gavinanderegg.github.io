@@ -1,0 +1,33 @@
+---
+title: >
+    Liquid Glass updates in 26.4
+date: 2026-03-29 15:23:19 -0300
+---
+
+Apple recently updated all their OSs to 26.4, and there were plenty of Liquid Glass updates. Most of them of the better! Here are some of the changes that stood out to me, as well as a bit more grumbling about Liquid Glass in general (sorry).
+
+[When I last wrote about Liquid Glass](https://anderegg.ca/2026/01/20/reckoning-with-liquid-glass), my biggest complaint was that UI elements often disregarded you light or dark mode setting. I always prefer dark mode, and started using the tinted Liquid Glass setting when it was offered to me. Even with that set, previous OSs would use light mode UI controls if the content behind them was mainly light. This led to the [UI elements flitting back and forth between light and dark modes](https://mastodon.social/@chbeer/115146363054220735). Now with 26.4, as long as you've got Liquid Glass set to tinted, your choice of light/dark mode is respected. Excellent! It's wild to me that this only happens in tinted mode, but at least I have this option now.
+
+However, there are still two annoying bugs I keep seeing. The first is one that's been around since launch: [changing between a light and dark background quickly seems to confuse UI elements](https://bsky.app/profile/gavin.anderegg.ca/post/3mi7inyvtek24). This hasn't been fixed and happens regardless of light/dark or tinted/clear. I've put together [a quick background colour site](https://anderegg.ca/bgColor/) you can use to test this. If you alternate between a white and black background colour several times using the links at the top, you can then swipe from left to right to go back. If you have your Safari "Tabs" option set to "Bottom", you should see the same. [^1]
+
+The second issue I'm seeing is new to me. Now that the dark/light setting is being respected, there's a lot more UI flickering. Again, this happens mostly in Safari — but Safari is also my most used iOS app. When in dark mode with Liquid Glass set to tinted, [scrolling up and down quickly on a light background causes the UI to freak out](https://bsky.app/profile/gavin.anderegg.ca/post/3mi7inyvtek24). You can also see subtle changes in the UI if you just scroll up quickly in this state. If you look closely at the video in the above link, you can see the URL bar swapping quickly between two shades of dark UI.
+
+Another thing I saw during testing is Safari-specific, but it highlights a conceptual issue with Liquid Glass for me. If you're on a page with a light background but the UI is currently over darker content, [you'll see a white fringe added around the UI](https://bsky.app/profile/gavin.anderegg.ca/post/3mi7lsv6fhk24). I'm not sure what problem this is solving, as the UI would be perfectly legible without this fringe. In fact, you can see that this is the case when the UI shrinks to a tiny pill as you scroll down. That tiny pill has no fringing and is still legible. [^2] Isn't the whole point of Liquid Glass that you can "see more of your content"? This fringing hides the content under it for no reason I can discern.
+
+Most of these issues also exist on iPadOS. Again, here's an example in Safari where [swiping back and forth between dark/light content confuses the UI](https://bsky.app/profile/gavin.anderegg.ca/post/3mi7mji4gjk24). Another weird thing I've noticed on iPadOS 26.4 which seems unique to the platform: [PDFs viewed in Safari mostly remove the UI background](https://bsky.app/profile/gavin.anderegg.ca/post/3mi7nb6zrf224). As with many Liquid Glass changes, it's hard to tell if this is a bug or not. It's an interesting effect when just looking at a screenshot, but I find this incredibly distracting in practice.
+
+Safari in macOS 26.4 also got a tweak to how its tabs work. [They now have a Liquid Glass effect and a better animation when "torn off"](https://bsky.app/profile/gavin.anderegg.ca/post/3mi7q4pk4ck2n). I really dislike 26's tab design, but at least this is more consistent with the rest of the OSs.
+
+The Settings app in macOS and iPadOS have had a tweak to how the Liquid Glass "Search" element works. [It now is much more opaque, leading to fewer instances where it can be completely unreadable](https://bsky.app/profile/gavin.anderegg.ca/post/3mi7qn6m66c2n). Here's an example of [how this used to look](https://eclecticlight.co/2025/12/28/last-year-on-my-mac-look-back-in-disbelief/#:~:text=Wet%2Don%2Dwet,-This%20technique%20is). There are still places where unreadable overlapping text exists, but Apple does seem to be addressing them one at a time. I still think it's a failure of the design language that this sort of issue happens by default and needs to be addressed on a per instance basis.
+
+While testing this stuff, I tried to do some recording using the iOS simulator in Xcode. I did this for my last post, and noticed at the time that I couldn't find a way to set the simulator to tinted mode. This was still in 26.2. I assumed this would be added at some point, but it's still missing. It's easier than ever to test on a real device while building for iOS, but this seems like an oversight to me.
+
+I've mostly been using Safari as an example here, as it's the app I use most on all platforms. However, when in tinted mode, all apps in all OSs are now better at respecting your chosen UI style. I think this is a great step forward. I'm happy that Apple is quickly reacting to issues with Liquid Glass, but I still think it has a long way to go.
+
+I'm a fan of refractive effects in general, and I think there are many places in the OSs where the Liquid Glass effect looks nice. However, it seems like a fundamental failing of the design language that the glass effect only works when there's something under it. This looks fine when it's photos or video, but I find it extremely distracting when the content is text. For me, that's a lot of the time.
+
+---
+
+[^1]: You can get to this option by going to the Settings app, scrolling all the way down to "Apps", click that and then choose "Safari". Then scroll about halfway down to the "Tabs" section. There are icons at the top of that section for "Compact", "Bottom", and "Top". I prefer the Bottom option because it's one less tap to get to sharing, bookmarks, and tabs.
+
+[^2]: That said, I really wish there was a way to disable this shrinking on iOS as there is on iPadOS. My phone is massive, and I'd rather always be able to see the UI rather than it disappearing as I scroll. This sort of "hide the UI whenever possible" is perhaps the thing I dislike most about modern Apple design.
