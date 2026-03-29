@@ -4,7 +4,7 @@ title: >
 date: 2026-03-29 15:23:19 -0300
 ---
 
-Apple recently updated all their OSs to 26.4, and there were plenty of Liquid Glass updates. Most of them of the better! Here are some of the changes that stood out to me, as well as a bit more grumbling about Liquid Glass in general (sorry).
+Apple recently updated all their OSs to 26.4, and there were plenty of Liquid Glass updates. Most of them for the better! Here are some of the changes that stood out to me, as well as a bit more grumbling about Liquid Glass in general (sorry).
 
 [When I last wrote about Liquid Glass](https://anderegg.ca/2026/01/20/reckoning-with-liquid-glass), my biggest complaint was that UI elements often disregarded your light or dark mode setting. I always prefer dark mode, and started using the tinted Liquid Glass setting when it was offered to me. Even with that set, previous OSs would use light mode UI controls if the content behind them was mainly light. This led to the [UI elements flitting back and forth between light and dark modes](https://mastodon.social/@chbeer/115146363054220735). Now with 26.4, as long as you've got Liquid Glass set to tinted, your choice of light/dark mode is respected. Excellent! It's wild to me that this only happens in tinted mode, but at least I have this option now.
 
