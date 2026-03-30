@@ -4,7 +4,7 @@ title: >
 date: 2026-03-30 18:20:01 -0300
 ---
 
-I wrote yesterday about some [visual changes I'd noticed in Apple's 26.4 series of OSs](https://anderegg.ca/2026/03/29/liquid-glass-updates-in-264). Today I noticed that I missed a couple of real doozies, both related to the new mega-corners in macOS Tahoe.
+I wrote yesterday about some [visual changes I'd noticed in Apple's 26.4 series of OSs](https://anderegg.ca/2026/03/29/liquid-glass-updates-in-264). Today I noticed that I'd missed a couple of real doozies, both related to the new mega-corners in macOS Tahoe.
 
 <img src="https://anderegg.s3.amazonaws.com/26.4-corner-big.png" width="340" height="325" style="margin: auto; border: 4px solid #556;" alt="A screenshot of a blank window corner in macOS Tahoe 26.4. A mouse pointer is showing the window resize icon, and the cursor is positioned well inside the window. You can also see that the scrollbar is all the way at the bottom, but the bottom is above the corner radius. This means that it's no longer showing under the window corner as in previous versions." title="A screenshot of a blank window corner in macOS Tahoe 26.4. A mouse pointer is showing the window resize icon, and the cursor is positioned well inside the window. You can also see that the scrollbar is all the way at the bottom, but the bottom is above the corner radius. This means that it's no longer showing under the window corner as in previous versions.">
 
