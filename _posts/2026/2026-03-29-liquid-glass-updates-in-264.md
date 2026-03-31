@@ -8,7 +8,7 @@ Apple recently updated all their OSs to 26.4, and there were plenty of Liquid Gl
 
 ---
 
-*UPDATE:* I realized the next day that I missed two major updates, [so I wrote about those as well](https://anderegg.ca/2026/03/30/two-more-liquid-glass-fixes-in-macos-264).
+**UPDATE:** I realized the next day that I missed two major updates, [so I wrote about those as well](https://anderegg.ca/2026/03/30/two-more-liquid-glass-fixes-in-macos-264).
 
 ---
 
