@@ -8,7 +8,7 @@ Growing up, I hated Apple the way only an arrogant teenager could. Who in their 
 
 ---
 
-My family's first real computer [^1] was a [286 PC compatible](https://en.wikipedia.org/wiki/Intel_80286) that we got in 1991. Everyone around us who was geeky enough to have a computer at that time was also using PCs. I was too young then to know what the options were.
+My family's first real computer was a [286 PC compatible](https://en.wikipedia.org/wiki/Intel_80286) that we got in 1991. Everyone around us who was geeky enough to have a computer at that time was also using PCs. I was too young then to know what the options were.
 
 We had previously borrowed a [VIC-20](https://en.wikipedia.org/wiki/VIC-20). I threw myself at BASIC, but quickly hit a limit. It was enough to convince my folks that I might go somewhere with this computer stuff, though. The 286 came with [MS-DOS 5.0](https://en.wikipedia.org/wiki/MS-DOS#MS-DOS_5.x), [GW-BASIC](https://en.wikipedia.org/wiki/GW-BASIC), and most importantly a hard drive. It didn't hurt that it had a [VGA card](https://en.wikipedia.org/wiki/Video_Graphics_Array) and [played](https://en.wikipedia.org/wiki/Commander_Keen) [many](https://en.wikipedia.org/wiki/Stunts_%28video_game%29) [excellent](https://en.wikipedia.org/wiki/Scorched_Earth_%28video_game%29) [games](https://en.wikipedia.org/wiki/Wolfenstein_3D).
 
