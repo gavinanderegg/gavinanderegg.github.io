@@ -20,6 +20,10 @@ He wound up taking Polaroid self-developing photos of each new design idea, then
 Atkinson preserved those Polaroids in a leatherette-bound photo album. Today, Atkinson's 135 Polaroids serve as a time machine, a glimpse of the earliest days of the user interfaces we now take for granted.
 </blockquote>
 
-Turns out, [the whole collection of Polaroid photos is available to view on the Computer History Museum website](https://www.computerhistory.org/collections/catalog/102806106/)! There are also 159 images here, rather than the 135 mentioned. I'm not sure what the discrepancy is exactly, but there are several duplicates and non-screenshot images.
+Turns out, [the whole collection of Polaroid photos is available to view on the Computer History Museum website](https://www.computerhistory.org/collections/catalog/102806106/)! [^1] It's really fun watching the graphical user interface getting pieced together nearly from first principles with this collection. It also includes a number of early computer graphics demo screenshots, which are fun.
 
-On the subject: prior to the launch of the book, Pogue [hosted a panel in association with the Computer History Museum](https://computerhistory.org/blog/celebrating-apple-at-50/), and which was [recorded and available on YouTube](https://www.youtube.com/watch?v=eCSNJgI2LFI). It's well worth a watch.
+While I'm linking to this site: prior to the launch of the book, Pogue [hosted a panel in association with the Computer History Museum](https://computerhistory.org/blog/celebrating-apple-at-50/), and which was [recorded and available on YouTube](https://www.youtube.com/watch?v=eCSNJgI2LFI). It's well worth a watch.
+
+---
+
+[^1]: There are also 159 images here, rather than the 135 mentioned. I'm not sure what the discrepancy is exactly, but there are several duplicates and non-screenshot images.
