@@ -177,7 +177,9 @@ body {
 	}
 
 	blockquote {
-		margin: 32px 0 32px 32px;
+		border-left: 8px solid rgba(0, 0, 0, 0.4);
+		margin: 1.6em 0 1.6em 0;
+		padding-left: 1.6em;
 	}
 
 	.caption {
