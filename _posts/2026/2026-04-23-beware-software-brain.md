@@ -1,0 +1,19 @@
+---
+title: >
+    Beware software brain
+date: 2026-04-23 22:22:48 -0300
+---
+
+[Nilay Patel put out an excellent Decoder episode today](https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation). In it, he dove into the idea of "software brain", which is something he's been workshopping during the past several Vergecast episodes. It's his attempt to explain why so many Silicon Valley folks are head over heels about AI, at the same time that most normal people hate it. The idea really resonates with me.
+
+[It's worth checking out the post](https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation). There's a 15 minute YouTube video, a podcast version, and a written piece on the page. But here's the main thrust. Software folks are used to thinking of things as software problems. To them, automation is always a win, and LLMs are the best automation tools to come out in decades. But most people don't think in terms of automation. Instead they see bullshit features, terrible art, people losing their jobs, and massive amounts of money and energy going into data centres.
+
+This isn't guesswork, either. Recent polls from the [Pew Research Center](https://www.pewresearch.org/short-reads/2026/03/12/key-findings-about-how-americans-view-artificial-intelligence/) and [Quinnipiac University](https://poll.qu.edu/poll-release?releaseid=3955) show that most people surveyed [think AI will do more harm than good](https://poll.qu.edu/poll-release?releaseid=3955#question-7). Plus, this concern isn't just among luddites. More people than ever are using AI, and those people don't like what's being put in front of them.
+
+Some people afflicted with software brain think this is a marketing problem. [Sam Altman bought a livestream that no one watches](https://www.garbageday.email/p/openai-bought-a-livestream-no-one-watches) as a way to [convince people of the value of AI](https://finance.yahoo.com/sectors/technology/articles/sam-altman-calls-tbpn-hosts-151929898.html). But I think [Patel put it best when he said](https://bsky.app/profile/reckless.bsky.social/post/3mimgacqudk25): "The iPhone was a consumer product so great that enterprises were forced to adopt it! That’s the bar, not the other way around."
+
+This is apt because LLMs are mostly enterprise products at the moment. Software developers and large organizations are leveraging them for automation, and that's working well. But most people don't care about those uses, and the downsides aren't small.
+
+[As I wrote yesterday](https://anderegg.ca/2026/04/22/llm-pricing-has-never-made-sense), I think LLMs can be very useful, and that we'll trend over time toward local LLMs which don't require massive server farms. I also think that AI is better when it's boring — when it's a useful feature of something else, and not the in-your-face focus. No one was all that upset with [content-aware fill](https://helpx.adobe.com/photoshop/desktop/repair-retouch/remove-objects-fill-space/remove-objects-with-content-aware-fill.html) or [DLSS](https://en.wikipedia.org/wiki/Deep_Learning_Super_Sampling) ([at least previous versions](https://kotaku.com/digital-foundry-dlss5-nvidia-genai-response-video-2000680002)). Both of these features used AI and were trained on large data sets, but they happened on-device and provided a clear benefit to people.
+
+If AI companies were focused on these sorts of features, or even focused primarily on the enterprise, I don't think there'd be as much of an issue. Instead, they're making insane promises about the power of their products, and telling ordinary people they'll be left behind if they don't get on board. Of course, they've also painted themselves into a corner. They can't really say anything less if they want to keep the bubble intact.
