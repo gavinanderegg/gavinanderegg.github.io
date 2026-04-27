@@ -8,7 +8,7 @@ I've been noticing a lot of service outages lately. Some with [few enough nines]
 
 First off, let's look at GitHub. It launched in 2008 and was acquired by Microsoft in late 2018. For most of its life, it was boring infrastructure in the best possible way. More recently [it's been up and down like a yo-yo](https://damrnelson.github.io/github-historical-uptime/). The official status page currently lists most services at [two nines of uptime](https://www.githubstatus.com/) over the last 90 days… but counting slightly differently [makes it look even worse](https://mrshu.github.io/github-statuses/).
 
-Some people have blamed AI for this. Not because everyone at GitHub is vibe coding now (though, that might not be helping things). Instead because [Microsoft is prioritizing AI projects over everything else](https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/), including at GitHub. GitHub also [has had a substantial influx of users](https://www.theinformation.com/newsletters/applied-ai/microsofts-github-sees-booming-traffic-outages-ai-agents-flood-platform) as more people are building software with AI and using AI agents. On top of all that, Microsoft recently started  [re-platforming work to move GitHub services to Azure](https://thenewstack.io/github-will-prioritize-migrating-to-azure-over-feature-development/). This is taking resources away from efforts that could help increase stability. [^1]
+Some people have blamed AI for this. Not because everyone at GitHub is vibe coding now (though, that might not be helping things). Instead because [Microsoft is prioritizing AI projects over everything else](https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/), including at GitHub. GitHub also [has had a substantial influx of users](https://www.theinformation.com/newsletters/applied-ai/microsofts-github-sees-booming-traffic-outages-ai-agents-flood-platform) as more people are building software with AI and using AI agents. On top of all that, Microsoft recently started  [re-platforming work to move GitHub services to Azure](https://thenewstack.io/github-will-prioritize-migrating-to-azure-over-feature-development/). This is taking resources away from efforts that could help increase stability. [^1] [^2]
 
 The companies providing AI services aren't doing much better. Anthropic's Claude has been [between one and two nines of uptime over the past three months](https://status.claude.com/uptime). OpenAI's ChatGPT has [done a bit better at around two nines](https://status.openai.com). There might be more of a reason to blame these outages on vibe coding, but I think the simpler answer is that it's tough to scale. These services are being used by more people every day, and the systems in play are novel.
 
@@ -22,4 +22,6 @@ Some people said [Claude's Mythos](https://red.anthropic.com/2026/mythos-preview
 
 ---
 
-[^1]: Also, as I'm writing this, [GitHub is currently experiencing another incident](https://news.ycombinator.com/item?id=47924775).
+[^1]: As I'm writing this, [GitHub is currently experiencing another incident](https://news.ycombinator.com/item?id=47924775).
+
+[^2]: [Also, NPM](https://news.ycombinator.com/item?id=47927526).
