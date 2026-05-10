@@ -39,7 +39,7 @@ If there's an update for your operating system or your phone, you should install
 ### Really think before clicking things
 Phishing attempts powered by AI are more able to appear legitimate. They're also easier to personalize. Recently Adobe's customer support platform was targeted in a [fairly novel phishing scheme](https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/). I suspect we'll see more like this going forward.
 
-<p style="color: #FFF6; text-align: center">...</p>
+<p style="color: #FFF6; text-align: center">⋯</p>
 
 We're in an odd moment. It's possible we're at the start of something genuinely good, a time when security defenders can start outpacing attackers. It's also possible that things are just about to hit the fan in ways we'll all notice. Whatever the case, the software you depend on today will need someone watching it tomorrow. That part hasn't changed, and probably never will.
 
