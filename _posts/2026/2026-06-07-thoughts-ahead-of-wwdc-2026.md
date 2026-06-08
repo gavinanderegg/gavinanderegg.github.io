@@ -4,7 +4,7 @@ title: >
 date: 2026-06-07 14:22:09 -0300
 ---
 
-I've been following Apple news and rumours since [the year 2000](https://youtu.be/kmzpdd4pWvM?si=oVYKbgCwQvObRv-o&t=66), and I don't think I've ever been less excited for WWDC. Apple's software story is in rough shape, and I worry that this year's event won't do much to help. Perhaps it'll be the beginning of an upswing, but we've got quite a way to go.
+I've been following Apple news and rumours since [the year 2000](https://youtu.be/kmzpdd4pWvM?si=oVYKbgCwQvObRv-o&t=66), and I can't remember being less excited for rumoured WWDC announcements. Apple's software story is in rough shape, and I worry that this year's event won't do much to help. Perhaps it'll be the beginning of an upswing, but we've got quite a way to go.
 
 Before looking forward, let's look back. WWDC 2024 focused on a number of "Apple Intelligence" features [that never materialized](https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino). Which is probably for the best because the features that did ship that year [were annoying at best](https://support.apple.com/en-ca/guide/mac-help/mchldcd6c260/mac) and [awful at worst](https://512pixels.net/2024/12/a-look-at-apple-intelligences-image-creation-tools/). WWDC 2025 introduced a new redesign that I was initially looking forward to… [until I saw it in practice](https://anderegg.ca/2025/07/12/grumbling-about-liquid-glass).
 
