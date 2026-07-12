@@ -107,7 +107,7 @@ body {
 	img {
 		max-width: 90%;
 		display: block;
-		margin: auto;
+		margin: 32px auto;
 		height: auto;
 		border: 4px solid #0e0e10;
 	}
@@ -243,6 +243,10 @@ body {
 	#content {
 		font-size: 100%;
 		padding: 1rem 2rem 3rem 2rem;
+
+		img {
+			margin: 22px auto;
+		}
 	}
 
 	#content article > h2 {
