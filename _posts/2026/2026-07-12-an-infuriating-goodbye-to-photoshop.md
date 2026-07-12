@@ -1,6 +1,6 @@
 ---
 title: >
-    An infuriating goodbye to Photoshop
+    An infuriated goodbye to Photoshop
 date: 2026-07-12 15:44:53 -0300
 ---
 
