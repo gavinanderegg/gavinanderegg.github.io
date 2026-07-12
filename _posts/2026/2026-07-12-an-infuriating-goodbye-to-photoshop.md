@@ -34,7 +34,7 @@ I then received the following email.
 
 ![An email with the following text: Your Adobe security profile has changed. Hi Gavin, Recently, you made changes to your Adobe security profile. --blank space-- How will this affect you: --blank space--. Don't recognize this activity? Contact us immediately. Adobe](https://anderegg.s3.amazonaws.com/photoshop/adobe-email.png)
 
-There's nothing hidden here, this is the full contents of the message.
+There's nothing hidden here. That's the whole message.
 
 At this point, though, I was actually able to start the cancellation process. The first screen of the cancellation flow looked like this:
 
