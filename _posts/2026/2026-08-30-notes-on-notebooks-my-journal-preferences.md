@@ -4,7 +4,7 @@ title: >
 date: 2026-08-30 12:50:47 -0300
 ---
 
-I was catching up on my RSS feed and saw [this post from The Pen Addict](https://www.penaddict.com/blog/2026/8/26/analog-defaults-august-2026-update). In it, Brad Dowdy mentions some updates to his [Analog Defaults](https://www.penaddict.com/analog-defaults) page. That's a cool idea, so I set one up. I also thought this would be a good excuse for me to write about notebook preferences for journalling.
+I was catching up on my RSS feed and saw [this post from The Pen Addict](https://www.penaddict.com/blog/2026/8/26/analog-defaults-august-2026-update). In it, Brad Dowdy mentions some updates to his [Analog Defaults](https://www.penaddict.com/analog-defaults) page. That's a cool idea, so [I also set one up](https://anderegg.ca/analogue-defaults/). I also thought this would be a good excuse for me to write about notebook preferences for journalling.
 
 As long as I can remember, I've enjoyed the act of putting pen to paper. As a kid, I never looked forward to the end of summer — but I *loved* shopping for school supplies. Even [cheap notebooks](https://www.staples.ca/products/15564-en-hilroy-canada-stitched-exercise-book-10-78-x-7-38-assorted-colours-4-pack) [^1] felt as though they held infinite possibilities. In grade school, I realized that writing out snippets of my day helped prevent boredom-induced insanity. I've kept up the journalling habit ever since.
 
