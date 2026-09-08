@@ -30,12 +30,12 @@ I also don't know if I'll keep this chart up to date… though it's not terribl
 
 [^1]: I found [Daring Fireball](https://daringfireball.net/) because I was researching the purchase of my first Mac around this time. It wasn't until October of 2002, but [I ended up buying](https://anderegg.ca/2026/04/01/apple-at-50-my-journey-to-the-mac) one of the machines he wrote about in [his first post that August](https://daringfireball.net/2002/08/baby_needs_a_new_pair_of_processors).
 
-[^2]: The following dates don't match the main format:
-
-* Sunday 30 November, 2025
-* Mon, 24 Feb 2020 16:05:34 EDT
-* Tuesday 31 December 2019
-* Tuesday, June 25 2019
-* Sat, 16 Mar 2019 19:43:49 EDT
-* Wednesday 31 December 2014
-* Monday, 30 Jun 2014
+[^2]:
+    The following dates don't match the main format:
+    * Sunday 30 November, 2025
+    * Mon, 24 Feb 2020 16:05:34 EDT
+    * Tuesday 31 December 2019
+    * Tuesday, June 25 2019
+    * Sat, 16 Mar 2019 19:43:49 EDT
+    * Wednesday 31 December 2014
+    * Monday, 30 Jun 2014
