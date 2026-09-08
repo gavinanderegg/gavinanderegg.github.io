@@ -6,7 +6,11 @@ date: 2026-09-08 13:23:04 -0300
 
 I really enjoy [John Gruber's](https://daringfireball.net/) podcast *[The Talk Show](https://daringfireball.net/thetalkshow/)*. However, I've noticed that it's been a while since it was in my feed. I decided to chart previous episode dates to check some of my assumptions about release frequency.
 
-Cutting to the chase, [here's a link to **The Talk Show Timeline**](https://anderegg.ca/tts-timeline/). You can click/tap on days to get a pinned tooltip, which lets you link out to a particular day's episode. I've tried to make this work well on mobile devices, but you'll likely find it works best on desktop.
+<a href="https://anderegg.ca/tts-timeline/"><img src="https://anderegg.s3.amazonaws.com/tts-timeline.png" width="100%" style="height: auto;" alt="A partial screenshot of The Talk Show Timeline chart"></a>
+
+> [Click here to check out **The Talk Show Timeline**](https://anderegg.ca/tts-timeline/).
+
+Clicking the image or the link above, you can poke around at the interactive episodes-over-time visualization. Click or tap on days in blue to get a pinned tooltip, which lets you link out to a particular day's episode. I've tried to make this work well on mobile devices, but you'll likely find it works best on desktop.
 
 A note about this: Gruber has mentioned in the past that there has been [a personal situation that he's been working through](https://daringfireball.net/2025/09/personal_note). He's also mentioned something to this effect on the podcast at points, but hasn't gone into detail. I don't need to know more than has been said, and I just hope things are alright.
 
