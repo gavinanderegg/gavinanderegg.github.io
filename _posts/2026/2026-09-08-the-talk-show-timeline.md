@@ -32,6 +32,7 @@ I also don't know if I'll keep this chart up to date… though it's not terribl
 
 [^2]:
     The following dates don't match the main format:
+
     * Sunday 30 November, 2025
     * Mon, 24 Feb 2020 16:05:34 EDT
     * Tuesday 31 December 2019
