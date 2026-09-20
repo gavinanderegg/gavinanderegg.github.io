@@ -20,7 +20,7 @@ Below is an example of how tinted looked in iOS 26 in dark mode. You can see tha
 
 <img src="https://anderegg.s3.amazonaws.com/27.0-design/26-tinted.webp" width="1093" height="524" alt="A notification in iOS 26's dark mode using the tinted version of Liquid Glass.">
 
-Here's an example from iOS 27 in dark mode with maximum tinting applied, though you might find that hard to believe. The text is white on top of a light, matte, translucent material with no refraction to speak of. Below that is an ugly shadow used to help increase contrast, but it doesn't help much.
+Here's an example from iOS 27 in dark mode with maximum tinting applied — though you might find that hard to believe. The text is white on top of a light, matte, translucent material with no refraction to speak of. Below that is an ugly shadow used to help increase contrast, but it doesn't help much.
 
 <img src="https://anderegg.s3.amazonaws.com/27.0-design/27-tinted.webp" width="1093" height="524" alt="The same notification in iOS 27's dark mode using the tinted version of Liquid Glass.">
 
