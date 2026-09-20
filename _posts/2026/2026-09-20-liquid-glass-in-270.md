@@ -28,7 +28,7 @@ Just for kicks, here's iOS 26 in dark + clear mode.
 
 <img src="https://anderegg.s3.amazonaws.com/27.0-design/26-clear.webp" width="1093" height="524" alt="The same notification in iOS 26's dark mode using clear Liquid Glass.">
 
-And here's iOS 27 in dark + the clearest mode. In both cases, we have that shadow below the notification. I find this mode verging on unreadable, but the default "middle" mode looks almost exactly the same as the iOS 26 clear example above.
+And here's iOS 27 in dark + the clearest mode. In both cases, we have that shadow below the notification. I find this mode verging on unreadable, but the default "middle" mode in iOS 27 looks almost exactly the same as the iOS 26 clear example above.
 
 <img src="https://anderegg.s3.amazonaws.com/27.0-design/27-clear.webp" width="1093" height="524" alt="One last time in iOS 27's dark mode using clear Liquid Glass.">
 
