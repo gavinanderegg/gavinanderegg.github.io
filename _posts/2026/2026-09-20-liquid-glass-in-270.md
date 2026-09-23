@@ -32,7 +32,9 @@ And here's iOS 27 in dark + the clearest mode. In both cases, we have that shado
 
 <img src="https://anderegg.s3.amazonaws.com/27.0-design/27-clear.webp" width="1093" height="524" alt="One last time in iOS 27's dark mode using clear Liquid Glass.">
 
-That said, I'm glad Apple offers an extra-clear mode for people who want that. I just wish I could also have a "clear but dark" mode like we used to have in iOS 26. Like I said, I think the 27 series OSs have improved the new design language overall. I expect the design will continue being refined, and I'm hoping Apple will let us have darker glass again. Overall, though, I think it says something that Liquid Glass needs all of these changes, tweaks, and options.
+That said, I'm glad Apple offers an extra-clear mode for people who want that. I just wish I could also have a "clear but dark" mode like we used to have in iOS 26. I don't love that we now have a slider full of options for Liquid Glass, and every step is lighter than what we used to have. I don't think it's crazy to have a dark appearance for the glass material when in dark mode.
+
+I think the 27 series OSs have markedly improved the design, especially on macOS. I expect things will continue being refined, and I'm hoping Apple will eventually let us have darker glass again. However, the number of changes, tweaks, and options to this material showcases the challenge of working with translucent UI elements. As much as I love the refractive effects at times, I'm just not sure it's worth it.
 
 ---
 
