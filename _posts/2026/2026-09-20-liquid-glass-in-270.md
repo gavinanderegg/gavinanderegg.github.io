@@ -14,27 +14,27 @@ In Apple's 27 series, the binary option of "tinted" or "clear" was replaced with
 
 For most of the past week, I tried living with the default mid-point on the slider. I gave up almost immediately on macOS and iPadOS. [^2] I lasted much longer on iOS, but I found the glass to have an unpleasant milky hue. Now I'm back to full tinted, mostly because it's the only way I can stand looking at notifications.
 
-With the previous version of "tinted", especially in dark mode, there was a nice amount of contrast. The material looked glassy and translucent, but it was pleasantly dark. In the 27 OSs, the tinted mode looks dull, matte, and significantly lighter. The worst part: it still uses white text, leading to universally worse contrast. So now I get more readability issues and effectively none of the refractive effects. That's a bummer.
+With the previous version of "tinted", especially in dark mode, there was a nice amount of contrast. The material looked glassy and translucent, but it was pleasantly dark. In the 27 OSs, the tinted mode looks dull, matte, and significantly lighter. The worst part: it still uses white text, leading to universally worse contrast. So now I get worse readability *and* effectively none of the refractive effects. That sucks!
 
 Below is an example of how tinted looked in iOS 26 in dark mode. You can see that it's a dark material with a refractive effect. The text on top is white, and there's a good amount of contrast here.
 
 <img src="https://anderegg.s3.amazonaws.com/27.0-design/26-tinted.webp" width="1093" height="524" alt="A notification in iOS 26's dark mode using the tinted version of Liquid Glass.">
 
-Here's an example from iOS 27 in dark mode with maximum tinting applied — though you might find that hard to believe. The text is white on top of a light, matte, translucent material with no refraction to speak of. Below that is an ugly shadow used to increase contrast, but it doesn't help much.
+Below is an example from iOS 27 in dark mode with maximum tinting applied — though you might find that hard to believe. The text is white on top of a light, matte, translucent material with no refraction to speak of. Below that is an ugly shadow used to increase contrast, but it doesn't help much.
 
 <img src="https://anderegg.s3.amazonaws.com/27.0-design/27-tinted.webp" width="1093" height="524" alt="The same notification in iOS 27's dark mode using the tinted version of Liquid Glass.">
 
-Just for kicks, here's iOS 26 in dark + clear mode.
+Just for kicks, below is iOS 26 in dark + clear mode.
 
 <img src="https://anderegg.s3.amazonaws.com/27.0-design/26-clear.webp" width="1093" height="524" alt="The same notification in iOS 26's dark mode using clear Liquid Glass.">
 
-And here's iOS 27 in dark + the clearest mode. In both cases, we have that shadow below the notification. I find this mode verging on unreadable, but the default "middle" mode in iOS 27 looks almost exactly the same as the iOS 26 clear example above.
+Finally, below is iOS 27 in dark + the clearest mode. In both cases, we have that shadow below the notification. I find this mode verging on unreadable, but the default "middle" mode in iOS 27 looks almost exactly the same as the iOS 26 clear example above.
 
 <img src="https://anderegg.s3.amazonaws.com/27.0-design/27-clear.webp" width="1093" height="524" alt="One last time in iOS 27's dark mode using clear Liquid Glass.">
 
 I'm glad Apple offers an extra-clear mode for people who want. I just wish there were options for those who preferred something darker, too. I liked the "clear but dark" mode from the 26 OSs better than any option I have now. It seems that, if we're going to have a slider full of options, the tinted end of the spectrum should have much more contrast — especially when in dark mode.
 
-I think the 27 series OSs have markedly improved the design overall, especially on macOS. I expect things will continue being refined, and I'm hoping Apple will eventually let us have darker glass again. However, the number of changes, tweaks, and options to this material showcases the challenge of working with translucent UI elements. As much as I love the refractive effects at times, I'm just not sure it's worth it.
+I think the 27 series OSs have markedly improved designs over the 26 series, especially on macOS. I expect things will continue being refined, and I'm hoping Apple will eventually let us have darker glass again. However, the number of changes, tweaks, and options to this material showcases the challenge of working with translucent UI elements. As much as I love the refractive effects at times, I'm just not sure it's worth it.
 
 ---
 
