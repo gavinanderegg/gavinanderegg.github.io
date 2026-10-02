@@ -28,7 +28,9 @@ Now, I'm sure there are at least a few people reading who don't see what the fus
 
 <img src="https://anderegg.s3.amazonaws.com/27.0-design/text-sample.webp" width="1001" height="372" alt="Sample latin text showing very low contrast background/foreground colour combinations.">
 
-The text/background colours in the above image are based on the foreground/background colours used in the tab bar instances above. First is clear in macOS 26, then the default from macOS 27, then fully tinted in macOS 27. I think they're all pretty awful, but I prefer the macOS 26 clear version. Again, this is because I'm using dark mode. In dark mode, light text appears on a darker background. Similarly, active UI elements have a lighter background than their surrounding elements. I'm sure there are counter-examples, but this is how just about everything else works in Apple's own apps!
+The text/background colours in the above image are based on the foreground/background colours used in the tab bar instances above. First is clear in macOS 26, then the default from macOS 27, then fully tinted in macOS 27. I think they're all pretty awful, but it's plainly clear that the middle one (the default tab bar contrast in macOS 27!) is unreadably bad.
+
+My preference is the macOS 26 version because I'm using dark mode. In dark mode, light text appears on a darker background. Similarly, active UI elements have a lighter background than their surrounding elements. I'm sure there are counter-examples, but this is how just about everything else works in Apple's own apps!
 
 It should be noted that Safari uses the system default tab bar design. I also see this design in Apple's Terminal app, in Pixelmator Pro, and elsewhere. I don't use Xcode daily anymore, but you'll also find them there — though in true Xcode fashion, they're ever so slightly nonstandard and also don't respect your tint setting. Below is a screenshot of Xcode using my current settings of dark mode with fully tinted Liquid Glass.
 
