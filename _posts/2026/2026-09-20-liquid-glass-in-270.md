@@ -1,6 +1,6 @@
 ---
 title: >
-    Liquid Glass in 27.0
+    Liquid Glass in Apple's 27.0 OSs
 date: 2026-09-20 14:25:26 -0300
 ---
 

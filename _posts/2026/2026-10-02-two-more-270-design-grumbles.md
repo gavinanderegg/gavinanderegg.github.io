@@ -1,6 +1,6 @@
 ---
 title: >
-    Two more 27.0 design grumbles
+    Tabs and menus in Apple's 27.0 OSs
 date: 2026-10-02 13:15:48 -0300
 ---
 
