@@ -6,7 +6,7 @@ date: 2026-10-02 13:15:48 -0300
 
 After living with Apple's 27.0 OSs since launch, I have some more annoyances to get off my chest. This time, it's all about how tabs and menus have gotten worse.
 
-I've already [ranted about the Liquid Glass material in general](https://anderegg.ca/2026/09/20/liquid-glass-in-270), but these two design changes in particular have really been grinding my gears. I'll reiterate that Apple's latest OSs look substantially nicer to me than the previous set… but that only makes these setbacks more glaring. Also, many of these issues aren't nearly as bad in light mode — but I use dark mode exclusively on all platforms. Apple offers this appearance setting, so I think it's fair to criticize them when it's not holding up.
+I've already [ranted about the Liquid Glass material in general](https://anderegg.ca/2026/09/20/liquid-glass-in-270), but these two design changes in particular have really been grinding my gears. I'll reiterate that Apple's latest OSs look substantially nicer to me than the previous set… but that only makes these setbacks more glaring. Also, many of these issues aren't nearly as bad in light mode, but I use dark mode exclusively on all platforms. Apple offers this appearance setting, so I think it's fair to criticize them when it's not holding up.
 
 First up, let's talk tab bars. I think these looked awful in the original Liquid Glass redesign, and in 27.0 they look even worse. Below is an example of three tab bars from Safari in macOS. All of them are in dark mode.
 

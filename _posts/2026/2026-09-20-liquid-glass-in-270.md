@@ -40,4 +40,4 @@ I think the 27 series OSs have markedly improved designs over the 26 series, esp
 
 [^1]: If there's any ambiguity about what mode I'm writing about: it's always dark mode. In my limited testing, everything works better in light mode. I assume this is because it's the default and Apple spends more time tuning it.
 
-[^2]: For reasons I'll get into in a future post.
+[^2]: [For reasons I've covered in this post](https://anderegg.ca/2026/10/02/two-more-270-design-grumbles).
