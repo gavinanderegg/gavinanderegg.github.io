@@ -20,4 +20,4 @@ If this is affecting you, at least you know you're not alone! [I recommend sendi
 
 ---
 
-[^1]: I've even tried walking a known outdoor route, but not recording it as an outdoor walk. I still saw less than half the distance as that same walk tracked as outdoor walk exercise. It seems like GPS might be the only thing giving me the proper distance.
+[^1]: I've even tried walking a known outdoor route, but not recording it as an outdoor walk. I still saw less than half the distance as when that route was tracked as an exercise. It seems like GPS might be the only thing giving me the proper distance.
