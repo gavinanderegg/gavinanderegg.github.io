@@ -18,6 +18,8 @@ I've [sent Apple some feedback](https://www.apple.com/feedback/), but it's uncle
 
 If this is affecting you, at least you know you're not alone! [I recommend sending Apple some feedback](https://www.apple.com/feedback/) so they can hopefully get the issue fixed.
 
+**Update:** Today I tried [resetting my calibration data](https://support.apple.com/en-us/105048#:~:text=Reset%20your%20calibration%20data) before going out for a walk. I got the expected distance from the outdoor walk exercise. I then did a 15-minute indoor walk exercise and still only got around half the expected distance. I'm still really hoping that Apple can address this in a software update!
+
 ---
 
 [^1]: I've even tried walking a known outdoor route, but not recording it as an outdoor walk. After, I had less than half the route's distance. GPS data might be the only thing giving correct walking distance, currently.
