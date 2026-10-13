@@ -11,7 +11,7 @@ Lex Friedman wrote [an initial piece](https://lexontech.org/x-is-bad-though) and
 
 Dan Sinker also [penned an eloquent article](https://dansinker.com/posts/2026-10-12-open-letter/) that 100% matches my initial feelings after reading Gruber's piece.
 
-But who cares, right? Gruber's gonna Gruber. He's a news fiend, and he's not wrong that X has more news on it. He's also correct that even the slightest positivity about LLMs on Bluesky or Mastodon will result in random pile-ons. People can feel how they want about LLMs, but the lack of subtlety on the subject, especially on Bluesky, can be a lot. Gruber could have spent more time on X quietly, but instead he decided to make a thing of it. Whatever.
+But who cares, right? Gruber's gonna Gruber. He's a news fiend, and he's not wrong that X has more news on it. He's also correct that even the slightest positivity about LLMs on Bluesky or Mastodon will result in random pile-ons. People can feel how they want about LLMs, but the lack of subtlety on the subject — especially on Bluesky — can be a lot. Gruber could have spent more time on X quietly, but instead he decided to make a thing of it. Whatever.
 
 But the bit that stood out to me was this passage:
 
@@ -21,6 +21,6 @@ This is what makes me tired. I'm sure X is friendly and welcoming to John Gruber
 
 [Reading responses to Gruber's post on Techmeme](https://www.techmeme.com/261012/p9#a261012p9), I saw this:
 
-<img src="https://anderegg.s3.amazonaws.com/gruber-x.avif" width="1200" height="1266" style="width: 85%" alt="DHH is positive about Gruber's post, and advocates for being welcoming and inclusive to those who return to X. Another user replies jokingly with a slur." title="DHH is positive about Gruber's post, and advocates for being welcoming and inclusive to those who return to X. Another user replies jokingly with a slur.">
+<img src="https://anderegg.s3.amazonaws.com/gruber-x.avif" width="1200" height="1266" style="width: 85%" alt="DHH is positive about Gruber's post, and advocates for being welcoming and inclusive to those who return to X. Another user replies jokingly with a slur." title="DHH is positive about Gruber's post, and advocates for being welcoming to those who return to X. Another user replies jokingly with a slur.">
 
 Have fun on X, John.
