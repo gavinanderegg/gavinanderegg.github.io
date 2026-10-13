@@ -9,7 +9,7 @@ Others have written about this with more gusto than I can muster. [Ernie Smith's
 
 Lex Friedman wrote [an initial piece](https://lexontech.org/x-is-bad-though) and [a follow-up](https://lexontech.org/a-few-more-thoughts-on-why-embracing-x-is-wrong) which mirror my disappointment. Yes, we're probably too divided as a society. We should do more to reach out to people we disagree with and find common ground… but there have to be lines somewhere. Friedman lists some great reasons why someone might choose not to engage with X. Here's one more: Elon Musk is [advocating for the separation of Alberta, Saskatchewan, and Quebec from Canada](https://www.bnnbloomberg.ca/business/politics/2026/10/08/canadas-future-will-be-decided-by-canadians-carney-says-after-elon-musk-pushes-quebec-separatism/). I don't need to reward him with my attention or put my eyeballs on his ads.
 
-Dan Sinker also [penned an eloquent article](https://dansinker.com/posts/2026-10-12-open-letter/) that 100% matches my initial feelings after reading Gruber's piece.
+Dan Sinker also [penned an eloquent open letter](https://dansinker.com/posts/2026-10-12-open-letter/) that 100% matches my initial feelings after reading Gruber's piece.
 
 But who cares, right? Gruber's gonna Gruber. He's a news fiend, and he's not wrong that X has more news on it. He's also correct that even the slightest positivity about LLMs on Bluesky or Mastodon will result in random pile-ons. People can feel how they want about LLMs, but the lack of subtlety on the subject — especially on Bluesky — can be a lot. Gruber could have spent more time on X quietly, but instead he decided to make a thing of it. Whatever.
 
