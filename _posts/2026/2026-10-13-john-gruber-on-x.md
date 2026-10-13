@@ -13,7 +13,7 @@ Dan Sinker also [penned an eloquent open letter](https://dansinker.com/posts/202
 
 But who cares, right? Gruber's gonna Gruber. He's a news fiend, and he's not wrong that X has more news on it. He's also correct that even the slightest positivity about LLMs on Bluesky or Mastodon will result in random pile-ons. People can feel how they want about LLMs, but the lack of subtlety on the subject — especially on Bluesky — can be a lot. Gruber could have spent more time on X quietly, but instead he decided to make a thing of it. Whatever.
 
-But the bit that stood out to me was this passage:
+The bit that stood out to me was this passage:
 
 > The culture on X today is remarkably friendly and inclusive. It is a cheerful place.
 
