@@ -22,4 +22,4 @@ Here's hoping we get more details on this at some point. In the meantime, maybe 
 
 ---
 
-[^1]: Here the "10" part of the filename is to help with priority. Files starting with lower numbers are added to the path first, and therefore have priority.
+[^1]: Here the "10" part of the filename is to help with priority. Files starting with lower numbers are added to the PATH first, and therefore have priority.
