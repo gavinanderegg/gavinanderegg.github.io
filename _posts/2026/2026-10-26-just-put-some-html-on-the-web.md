@@ -8,7 +8,7 @@ The internet is becoming a more dangerous place, and fast. [LLMs are only gettin
 
 This past week was a bad one for security issues. The most prominent one was [PHP2Shell](https://www.wiz.io/blog/php2shell-php-rce), which had PHP on the minds of non-technical folks — not a win for society. There was also [Node2Shell](https://cycode.com/blog/node2shell-cve-2026-111497/), which exploited Node's built-in [Brotli](https://en.wikipedia.org/wiki/Brotli) compression stack. [But there were a whole lot more](https://craci.com/resources/CVE-publication-trends?sev=critical).
 
-<a href="https://craci.com/resources/CVE-publication-trends?sev=critical"><img src="https://anderegg.s3.amazonaws.com/cves.avif" width="2041" height="829" alt="A chart showing the number of reported critical security vulnerabilities jumping from around 300 a month to over 1,500 a month since November of 2025."></a>
+<a href="https://craci.com/resources/CVE-publication-trends?sev=critical"><img src="https://anderegg.s3.amazonaws.com/cves.webp" width="2041" height="829" alt="A chart showing the number of reported critical security vulnerabilities jumping from around 300 a month to over 1,500 a month since November of 2025."></a>
 
 Note that the above chart is only showing critical [CVEs](https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures). Here's another [showing all CVEs](https://cve.0xosprey.com/). When [I last fretted about this in May](https://anderegg.ca/2026/05/10/ai-and-software-security-the-slop-becomes-signal), we were still doing rookie numbers. Things aren't likely to get better any time soon.
 
