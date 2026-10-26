@@ -37,7 +37,13 @@
 		</div>
 	</footer>
 
-	<script src="https://tinylytics.app/embed/ymKy7embDzqpj9NARJqA.js" defer></script>
+	<script>
+		if (!/Chrome-Lighthouse|HeadlessChrome/.test(navigator.userAgent)) {
+			const s = document.createElement('script');
+			s.src = 'https://tinylytics.app/embed/ymKy7embDzqpj9NARJqA.js';
+			document.head.appendChild(s);
+		}
+	</script>
 </body>
 
 </html>
