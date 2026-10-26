@@ -10,25 +10,25 @@
 
 <body>
 	<div id="root">
-		<header id="top">
+		<header id="top" role="banner">
 			<h1><a href="/">anderegg.ca</a></h1>
 		</header>
 
 		<div id="main">
-			<nav id="mainNav">
+			<nav id="mainNav" role="navigation">
 				<ul>{% for item in site.docs %}
 					<li class="{{item.title | slugify}}{% if item.url == page.url %} active{% endif %}"><a href="{{ item.url }}">{{ item.title }}</a></li>{% endfor %}
 				</ul>
 			</nav>
 
-			<div id="content">
+			<div id="content" role="main">
 				{{content}}
 			</div>
 		</div>
 	</div>
 
 	<footer id="bottom">
-		<div class="content">
+		<div class="content" role="contentinfo">
 			<p>Content and design &copy; {{ site.time | date: '%Y' }}, Gavin Anderegg &mdash; powered by <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://pages.github.com/">GitHub Pages</a>.</p>
 
 			<p>This website does not use any cookies. <a href="https://www.websitecarbon.com/website/anderegg-ca/">Only a tiny amount of energy</a> was used to transmit this content.</p>
